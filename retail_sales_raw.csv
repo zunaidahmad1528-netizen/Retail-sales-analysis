@@ -1,0 +1,1216 @@
+OrderID,OrderDate,Region,Category,Product,Quantity,UnitPrice,CustomerType,Sales
+1445,2023-07-09,North,Electronics,Smartphone,5.0,6113.0,New,30565.0
+1289,2023-11-25,South,Electronics,Headphones,1.0,15872.0,New,15872.0
+1568,2023-03-20,North,Clothing,Shoes,3.0,2271.0,New,6813.0
+1179,2023-09-20,East,Grocery,Cooking Oil 1L,7.0,337.0,New,2359.0
+2034,2023-11-11,South,Furniture,Bookshelf,5.0,11836.0,New,59180.0
+1920,2023-07-20,South,Grocery,Snacks Pack,5.0,366.0,New,1830.0
+1046,2023-07-11,South,Grocery,Snacks Pack,2.0,191.0,Returning,382.0
+1344,2023-09-04,South,Electronics,Laptop,6.0,24216.0,Returning,145296.0
+1420,2023-04-04,East,Electronics,Laptop,3.0,7571.0,New,22713.0
+1952,2023-11-08,North,Stationery,Backpack,5.0,322.0,Returning,1610.0
+1189,2023-11-07,South,Clothing,Jeans,7.0,956.0,Returning,6692.0
+1617,2023-07-30,north,Grocery,Cooking Oil 1L,2.0,322.0,Returning,644.0
+2128,2023-10-03,South,Electronics,Laptop,2.0,16383.0,New,32766.0
+1305,2023-12-06,North,Furniture,Office Chair,5.0,4087.0,New,20435.0
+1972,2023-11-22,South,Clothing,T-Shirt,6.0,2084.0,New,12504.0
+1668,2023-03-16,West,Grocery,Snacks Pack,2.0,249.0,New,498.0
+1641,2023-05-08,North,Clothing,Jacket,6.0,770.0,Returning,4620.0
+1454,2023-03-26,South,Furniture,Office Chair,1.0,10669.0,New,10669.0
+2057,2023-12-09,South,Grocery,Rice 5kg,1.0,157.0,New,157.0
+1833,2023-04-09,South,Electronics,Smartphone,5.0,8207.0,Returning,41035.0
+1967,2023-06-19,North,Stationery,Pen Set,2.0,650.0,Returning,1300.0
+1051,2023-01-09,North,Furniture,Office Chair,7.0,7813.0,Returning,54691.0
+2026,2023-02-03,East,Electronics,Headphones,7.0,16314.0,Returning,114198.0
+1642,2023-12-17,North,Grocery,Tea 250g,5.0,42.0,Returning,210.0
+1063,2023-12-24,East,Stationery,Backpack,5.0,506.0,New,2530.0
+1853,2023-03-22,East,Stationery,Pen Set,7.0,371.0,New,2597.0
+2097,2023-11-23,East,Stationery,Backpack,1.0,365.0,New,365.0
+1492,2023-08-06,East,Electronics,Laptop,1.0,5186.0,Returning,5186.0
+1172,2023-01-19,West,Furniture,Study Table,7.0,2867.0,New,20069.0
+1205,2023-02-11,north,Furniture,Office Chair,1.0,7672.0,Returning,7672.0
+1500,2023-05-14,East,Clothing,Jacket,7.0,443.0,New,3101.0
+2172,2023-11-06,south,Clothing,T-Shirt,2.0,482.0,New,964.0
+1773,2023-07-22,East,Electronics,Laptop,5.0,19895.0,Returning,99475.0
+1034,2023-03-04,East,Stationery,Pen Set,6.0,103.0,New,618.0
+1713,2023-04-11,North,Grocery,Cooking Oil 1L,3.0,376.0,Returning,1128.0
+1113,2023-03-17,North,Electronics,Smartphone,3.0,8792.0,Returning,26376.0
+1640,2023-11-21,North,Grocery,Rice 5kg,4.0,,New,
+1737,2023-05-23,North,Electronics,Laptop,2.0,14251.0,New,28502.0
+1220,2023-05-01,East,Stationery,Notebook Pack,3.0,150.0,New,450.0
+1907,2023-10-13,North,Clothing,Jacket,1.0,2151.0,New,2151.0
+2150,2023-04-13,South,Electronics,Smartphone,7.0,4204.0,Returning,29428.0
+1804,2023-07-24,South,Furniture,Office Chair,4.0,8825.0,New,35300.0
+2093,2023-05-18,West,Clothing,T-Shirt,5.0,996.0,New,4980.0
+2135,2023-05-06,North,Furniture,Study Table,4.0,2859.0,Returning,11436.0
+1231,2023-08-08,North,Furniture,Study Table,6.0,1704.0,New,10224.0
+2175,2023-01-24,South,Clothing,Jeans,6.0,573.0,Returning,3438.0
+1746,2023-06-27,South,Stationery,Pen Set,7.0,162.0,New,1134.0
+1351,2023-02-27,East,Electronics,Smartphone,2.0,12537.0,New,25074.0
+1777,2023-12-06,North,Clothing,Shoes,5.0,1204.0,New,6020.0
+1578,2023-04-17,West,Electronics,Laptop,3.0,17326.0,New,51978.0
+1399,2023-04-14,East,Grocery,Cooking Oil 1L,1.0,151.0,Returning,151.0
+1377,2023-03-14,South,Clothing,T-Shirt,6.0,1687.0,New,10122.0
+1995,2023-05-23,north,Clothing,Shoes,7.0,2328.0,New,16296.0
+1325,2023-02-08,East,Furniture,Study Table,6.0,3136.0,Returning,18816.0
+1457,2023-01-12,West,Clothing,Jacket,5.0,675.0,New,3375.0
+1895,2023-07-30,North,Electronics,Headphones,6.0,1302.0,New,7812.0
+1655,2023-10-20,North,Clothing,Shoes,1.0,2220.0,New,2220.0
+2109,2023-04-26,West,Clothing,Shoes,3.0,2053.0,Returning,6159.0
+1146,2023-01-08,South,Furniture,Study Table,7.0,7155.0,Returning,50085.0
+1186,2023-03-11,South,Clothing,Shoes,4.0,1255.0,Returning,5020.0
+1650,2023-02-27,South,Grocery,Cooking Oil 1L,1.0,324.0,Returning,324.0
+1109,2023-04-29,South,Electronics,Headphones,6.0,13992.0,Returning,83952.0
+1633,2023-11-19,West,Electronics,Smartphone,5.0,15219.0,New,76095.0
+1358,2023-09-28,East,Furniture,Bookshelf,2.0,5638.0,Returning,11276.0
+1270,2023-11-27,East,Grocery,Cooking Oil 1L,6.0,298.0,New,1788.0
+1977,2023-04-22,South,Grocery,Cooking Oil 1L,5.0,230.0,New,1150.0
+1918,2023-11-03,West,Furniture,Bookshelf,4.0,9515.0,Returning,38060.0
+1868,2023-03-18,North,Clothing,Jeans,1.0,766.0,Returning,766.0
+1204,2023-04-27,West,Clothing,Shoes,,1043.0,New,
+1101,2023-05-30,East,Electronics,Smartphone,7.0,5744.0,Returning,40208.0
+2049,2023-09-26,North,Electronics,Smartphone,1.0,19581.0,Returning,19581.0
+1098,2023-02-24,south,Electronics,Laptop,1.0,10324.0,New,10324.0
+1564,2023-07-22,South,Electronics,Headphones,5.0,20421.0,New,102105.0
+2182,2023-12-10,South,Clothing,T-Shirt,7.0,1208.0,New,8456.0
+2156,2023-06-09,East,Clothing,T-Shirt,5.0,526.0,Returning,2630.0
+1009,2023-05-19,East,Electronics,Smartwatch,1.0,13466.0,Returning,13466.0
+1053,2023-11-23,East,Stationery,Pen Set,3.0,,Returning,
+1224,2023-11-10,west,Grocery,Snacks Pack,3.0,389.0,New,1167.0
+2151,2023-10-15,North,Electronics,Smartwatch,1.0,7675.0,New,7675.0
+1264,2023-12-19,South,Clothing,T-Shirt,6.0,2100.0,Returning,12600.0
+2052,2023-05-30,West,Grocery,Cooking Oil 1L,6.0,313.0,New,1878.0
+1610,2023-02-03,West,Furniture,Bookshelf,2.0,2881.0,Returning,5762.0
+1644,2023-04-21,South,Grocery,Rice 5kg,3.0,82.0,New,246.0
+1603,2023-12-15,North,Grocery,Rice 5kg,4.0,273.0,New,1092.0
+1493,2023-02-01,North,Stationery,Pen Set,5.0,80.0,Returning,400.0
+2037,2023-03-19,North,Grocery,Tea 250g,6.0,350.0,New,2100.0
+1750,2023-10-02,East,Grocery,Rice 5kg,3.0,311.0,Returning,933.0
+2086,2023-11-02,South,Clothing,Shoes,7.0,2182.0,New,15274.0
+1669,2023-11-09,South,Electronics,Smartwatch,1.0,10107.0,Returning,10107.0
+1379,2023-02-17,West,Electronics,Smartwatch,4.0,23512.0,New,94048.0
+2013,2023-03-27,East,Clothing,T-Shirt,4.0,1272.0,Returning,5088.0
+1374,2023-12-20,East,Clothing,Jeans,5.0,538.0,New,2690.0
+2020,2023-10-31,East,Grocery,Cooking Oil 1L,4.0,274.0,Returning,1096.0
+1216,2023-04-05,West,Clothing,Jacket,5.0,2024.0,New,10120.0
+1278,2023-03-08,North,Stationery,Pen Set,6.0,311.0,Returning,1866.0
+1557,2023-08-27,East,Clothing,Jeans,6.0,1602.0,Returning,9612.0
+1252,2023-04-10,South,Clothing,Jeans,6.0,1830.0,New,10980.0
+2016,2023-05-01,South,Grocery,Tea 250g,4.0,130.0,New,520.0
+1272,2023-12-23,North,Electronics,Headphones,1.0,8246.0,Returning,8246.0
+1207,2023-03-28,North,Grocery,Rice 5kg,7.0,191.0,Returning,1337.0
+1810,2023-04-26,North,Furniture,Office Chair,6.0,10029.0,Returning,60174.0
+1565,2023-11-09,North,Electronics,Headphones,1.0,20067.0,Returning,20067.0
+1083,2023-02-16,North,Grocery,Cooking Oil 1L,5.0,395.0,New,1975.0
+1513,2023-06-17,East,Clothing,T-Shirt,4.0,718.0,Returning,2872.0
+1054,2023-02-08,North,Clothing,T-Shirt,4.0,1381.0,New,5524.0
+1954,2023-06-14,East,Clothing,T-Shirt,1.0,1836.0,Returning,1836.0
+1652,2023-09-06,West,Grocery,Tea 250g,5.0,259.0,Returning,1295.0
+1141,2023-01-12,south,Electronics,Smartphone,6.0,21753.0,Returning,130518.0
+2130,2023-11-03,North,Clothing,Shoes,7.0,927.0,Returning,6489.0
+1660,2023-07-07,West,Electronics,Smartwatch,4.0,2840.0,Returning,11360.0
+1569,2023-12-04,South,Furniture,Bookshelf,2.0,5772.0,New,11544.0
+1586,2023-11-26,North,Stationery,Pen Set,3.0,297.0,New,891.0
+1426,2023-01-28,East,Furniture,Bookshelf,4.0,1807.0,Returning,7228.0
+2195,2023-10-07,West,Electronics,Smartphone,1.0,3233.0,New,3233.0
+1681,2023-06-15,east,Electronics,Smartphone,4.0,7785.0,Returning,31140.0
+1151,2023-08-21,West,Clothing,T-Shirt,2.0,389.0,New,778.0
+1409,2023-12-21,South,Electronics,Smartwatch,1.0,20320.0,New,20320.0
+1562,2023-06-19,East,Grocery,Tea 250g,1.0,194.0,New,194.0
+1432,2023-12-06,North,Furniture,Study Table,5.0,9685.0,New,48425.0
+1040,2023-07-23,south,Electronics,Smartphone,7.0,24605.0,Returning,172235.0
+1285,2023-11-06,North,Clothing,Shoes,6.0,1810.0,New,10860.0
+1012,2023-12-12,North,Electronics,Headphones,7.0,24592.0,New,172144.0
+1097,2023-08-02,North,Stationery,Notebook Pack,5.0,50.0,Returning,250.0
+1667,2023-05-23,North,Clothing,Jeans,5.0,2429.0,Returning,12145.0
+1700,2023-10-16,East,Furniture,Study Table,5.0,10686.0,New,53430.0
+1128,2023-03-14,East,Electronics,Headphones,4.0,11226.0,New,44904.0
+1484,2023-06-03,North,Electronics,Laptop,3.0,20530.0,Returning,61590.0
+1769,2023-11-10,West,Electronics,Headphones,7.0,24604.0,New,172228.0
+1541,2023-12-15,South,Clothing,Jeans,7.0,1220.0,New,8540.0
+1597,2023-05-31,North,Clothing,Shoes,1.0,1810.0,New,1810.0
+2179,2023-10-22,East,Grocery,Tea 250g,5.0,66.0,Returning,330.0
+1708,2023-10-14,South,Furniture,Bookshelf,7.0,2438.0,New,17066.0
+1263,2023-08-25,South,Clothing,T-Shirt,6.0,1625.0,Returning,9750.0
+1548,2023-10-22,West,Furniture,Office Chair,7.0,4309.0,Returning,30163.0
+2041,2023-11-09,West,Furniture,Study Table,5.0,7727.0,New,38635.0
+1857,2023-09-11,North,Clothing,Shoes,6.0,2272.0,New,13632.0
+2082,2023-03-10,South,Furniture,Study Table,4.0,9840.0,New,39360.0
+1909,2023-12-16,South,Stationery,Backpack,1.0,163.0,Returning,163.0
+1742,2023-03-20,West,Electronics,Smartphone,1.0,9393.0,Returning,9393.0
+1841,2023-02-25,West,Electronics,Smartwatch,1.0,19690.0,New,19690.0
+2113,2023-10-13,West,Stationery,Notebook Pack,2.0,483.0,Returning,966.0
+2017,2023-10-03,South,Clothing,Jacket,2.0,2390.0,New,4780.0
+1838,2023-11-25,East,Furniture,Office Chair,7.0,6506.0,Returning,45542.0
+1017,2023-11-14,East,Stationery,Pen Set,3.0,162.0,Returning,486.0
+1523,2023-09-01,North,Clothing,Jacket,7.0,1460.0,New,10220.0
+1170,2023-10-16,East,Grocery,Snacks Pack,5.0,129.0,New,645.0
+1755,2023-07-15,West,Electronics,Smartphone,7.0,8556.0,New,59892.0
+2102,2023-02-05,South,Grocery,Tea 250g,1.0,154.0,New,154.0
+1115,2023-11-06,North,Grocery,Snacks Pack,3.0,188.0,New,564.0
+1253,2023-09-27,North,Stationery,Backpack,1.0,333.0,New,333.0
+2100,2023-01-13,East,Electronics,Headphones,2.0,23508.0,New,47016.0
+1140,2023-03-01,North,Electronics,Headphones,4.0,7859.0,New,31436.0
+1870,2023-04-06,South,Electronics,Laptop,1.0,23291.0,New,23291.0
+1771,2023-12-26,North,Grocery,Snacks Pack,6.0,172.0,New,1032.0
+1367,2023-05-20,East,Electronics,Smartwatch,1.0,860.0,Returning,860.0
+1556,2023-01-16,East,Electronics,Laptop,2.0,18288.0,Returning,36576.0
+1385,2023-03-03,South,Electronics,Smartphone,3.0,853.0,Returning,2559.0
+1619,2023-07-16,East,Electronics,Smartwatch,1.0,19427.0,New,19427.0
+1544,2023-01-16,North,Clothing,T-Shirt,5.0,2157.0,New,10785.0
+1888,2023-12-08,East,Grocery,Tea 250g,1.0,134.0,Returning,134.0
+1108,2023-02-05,West,Grocery,Cooking Oil 1L,7.0,50.0,New,350.0
+1984,2023-05-22,East,Electronics,Smartphone,1.0,18590.0,New,18590.0
+1280,2023-07-20,East,Stationery,Notebook Pack,6.0,327.0,New,1962.0
+1980,2023-09-09,East,Clothing,Jacket,3.0,2303.0,New,6909.0
+1099,2023-03-04,West,Clothing,Jeans,2.0,774.0,New,1548.0
+1735,2023-01-07,East,Electronics,Laptop,6.0,21519.0,Returning,129114.0
+1636,2023-08-14,East,Electronics,Headphones,7.0,16816.0,Returning,117712.0
+1534,2023-03-31,East,Electronics,Smartphone,6.0,5722.0,New,34332.0
+1663,2023-12-02,West,Clothing,Jacket,6.0,400.0,Returning,2400.0
+1851,2023-04-22,East,Clothing,Jeans,7.0,792.0,New,5544.0
+1471,2023-08-14,East,Furniture,Bookshelf,1.0,6697.0,New,6697.0
+1396,2023-07-10,South,Electronics,Laptop,2.0,15011.0,Returning,30022.0
+1866,2023-11-30,South,Grocery,Snacks Pack,1.0,94.0,New,94.0
+1912,2023-08-21,North,Electronics,Smartwatch,3.0,11716.0,New,35148.0
+1339,2023-08-02,West,Electronics,Smartwatch,7.0,952.0,New,6664.0
+1881,2023-01-05,West,Grocery,Cooking Oil 1L,1.0,175.0,Returning,175.0
+1986,2023-11-05,East,Clothing,Jacket,3.0,1292.0,New,3876.0
+2103,2023-01-23,East,Clothing,T-Shirt,6.0,1553.0,Returning,9318.0
+1431,2023-05-20,North,Stationery,Backpack,1.0,427.0,Returning,427.0
+1023,2023-02-06,South,Furniture,Bookshelf,3.0,7697.0,Returning,23091.0
+2019,2023-06-21,East,Electronics,Smartphone,4.0,13562.0,New,54248.0
+1767,2023-02-20,south,Clothing,Jeans,6.0,1429.0,New,8574.0
+1503,2023-01-06,South,Clothing,Jeans,3.0,1203.0,New,3609.0
+1877,2023-09-21,South,Clothing,T-Shirt,1.0,472.0,Returning,472.0
+1955,2023-05-08,West,Electronics,Smartwatch,5.0,10267.0,Returning,51335.0
+1913,2023-12-27,North,Furniture,Bookshelf,2.0,2231.0,New,4462.0
+1123,2023-04-13,South,Electronics,Laptop,4.0,14209.0,New,56836.0
+2166,2023-12-03,East,Clothing,Shoes,3.0,1455.0,New,4365.0
+1792,2023-05-27,East,Clothing,Jacket,3.0,2239.0,New,6717.0
+1498,2023-04-27,North,Clothing,Shoes,4.0,1458.0,New,5832.0
+1522,2023-05-02,North,Electronics,Headphones,7.0,15422.0,New,107954.0
+2073,2023-07-09,South,Clothing,Shoes,4.0,1302.0,Returning,5208.0
+2186,2023-04-04,South,Electronics,Headphones,7.0,22681.0,New,158767.0
+1228,2023-02-04,South,Clothing,Jacket,5.0,2396.0,Returning,11980.0
+1147,2023-02-15,North,Clothing,Jeans,1.0,2175.0,New,2175.0
+2067,2023-11-24,North,Electronics,Headphones,6.0,2724.0,New,16344.0
+1536,2023-04-14,South,Furniture,Office Chair,6.0,5124.0,Returning,30744.0
+1818,2023-12-12,East,Electronics,Smartwatch,7.0,22486.0,New,157402.0
+1070,2023-07-02,North,Grocery,Snacks Pack,4.0,320.0,New,1280.0
+2127,2023-01-21,West,Clothing,Jeans,6.0,1727.0,New,10362.0
+1262,2023-07-29,East,Clothing,Shoes,3.0,1790.0,New,5370.0
+1171,2023-07-11,West,Electronics,Headphones,1.0,13775.0,Returning,13775.0
+2158,2023-02-14,East,Electronics,Smartwatch,1.0,17067.0,New,17067.0
+1168,2023-12-07,North,Electronics,Smartwatch,6.0,5412.0,Returning,32472.0
+1478,2023-10-05,South,Grocery,Rice 5kg,1.0,251.0,New,251.0
+1905,2023-09-14,North,Clothing,T-Shirt,4.0,1838.0,New,7352.0
+1812,2023-03-17,North,Grocery,Rice 5kg,2.0,169.0,New,338.0
+1125,2023-09-08,South,Furniture,Office Chair,3.0,3532.0,New,10596.0
+1372,2023-05-18,North,Grocery,Snacks Pack,1.0,157.0,Returning,157.0
+1361,2023-10-31,West,Clothing,Jeans,3.0,2293.0,New,6879.0
+1164,2023-04-30,West,Furniture,Bookshelf,4.0,2468.0,New,9872.0
+1725,2023-09-15,East,Clothing,Jeans,7.0,2192.0,Returning,15344.0
+2117,2023-01-18,North,Clothing,Shoes,6.0,707.0,New,4242.0
+1571,2023-11-14,South,Clothing,T-Shirt,2.0,786.0,New,1572.0
+1826,2023-03-31,North,Grocery,Cooking Oil 1L,6.0,304.0,Returning,1824.0
+1042,2023-01-16,West,Electronics,Laptop,4.0,23487.0,Returning,93948.0
+1768,2023-07-23,East,Electronics,Smartwatch,7.0,6374.0,New,44618.0
+1899,2023-02-25,West,Grocery,Tea 250g,2.0,320.0,New,640.0
+2065,2023-10-03,South,Clothing,T-Shirt,5.0,560.0,New,2800.0
+1132,2023-08-15,East,Electronics,Smartwatch,1.0,5475.0,New,5475.0
+1189,2023-11-07,South,Clothing,Jeans,7.0,956.0,Returning,6692.0
+1631,2023-10-18,South,Electronics,Smartwatch,5.0,4195.0,Returning,20975.0
+1038,2023-10-17,East,Electronics,Smartphone,5.0,17044.0,Returning,85220.0
+1540,2023-12-18,North,Grocery,Tea 250g,1.0,73.0,New,73.0
+1474,2023-10-21,East,Electronics,Smartwatch,3.0,5860.0,Returning,17580.0
+1314,2023-08-16,South,Furniture,Office Chair,1.0,10335.0,New,10335.0
+2025,2023-08-20,West,Clothing,Jacket,6.0,2435.0,New,14610.0
+1389,2023-12-06,North,Clothing,Shoes,5.0,1393.0,Returning,6965.0
+1898,2023-05-17,east,Furniture,Bookshelf,5.0,2595.0,Returning,12975.0
+1308,2023-09-21,East,Grocery,Cooking Oil 1L,6.0,188.0,New,1128.0
+1013,2023-08-19,North,Clothing,Jacket,5.0,2022.0,Returning,10110.0
+1166,2023-06-30,North,Clothing,Jacket,2.0,1508.0,New,3016.0
+1531,2023-11-01,North,Electronics,Laptop,3.0,20839.0,New,62517.0
+1664,2023-02-28,east,Grocery,Cooking Oil 1L,,41.0,Returning,
+1318,2023-12-17,West,Grocery,Snacks Pack,7.0,227.0,New,1589.0
+1704,2023-04-13,West,Clothing,T-Shirt,5.0,536.0,Returning,2680.0
+1363,2023-12-04,South,Furniture,Office Chair,2.0,10433.0,New,20866.0
+1703,2023-10-15,North,Electronics,Smartwatch,1.0,10081.0,New,10081.0
+1930,2023-06-02,South,Grocery,Cooking Oil 1L,1.0,318.0,New,318.0
+1020,2023-07-06,West,Electronics,Headphones,4.0,24282.0,New,97128.0
+1797,2023-06-17,east,Grocery,Rice 5kg,1.0,394.0,New,394.0
+1071,2023-06-09,North,Electronics,Smartphone,5.0,22308.0,New,111540.0
+2187,2023-02-08,South,Clothing,T-Shirt,7.0,2394.0,New,16758.0
+1587,2023-02-26,South,Electronics,Smartwatch,2.0,3579.0,New,7158.0
+1060,2023-08-28,North,Electronics,Smartphone,6.0,6513.0,New,39078.0
+1408,2023-10-05,East,Clothing,Jacket,6.0,785.0,New,4710.0
+1110,2023-10-07,South,Electronics,Smartphone,6.0,16886.0,New,101316.0
+1004,2023-05-15,North,Electronics,Laptop,1.0,11355.0,New,11355.0
+1832,2023-05-03,South,Furniture,Study Table,3.0,8076.0,Returning,24228.0
+1590,2023-03-29,South,Grocery,Cooking Oil 1L,2.0,,Returning,
+1563,2023-07-06,South,Furniture,Study Table,2.0,5172.0,New,10344.0
+1643,2023-04-07,East,Stationery,Backpack,5.0,652.0,New,3260.0
+1336,2023-12-08,South,Grocery,Tea 250g,3.0,382.0,Returning,1146.0
+1284,2023-01-08,East,Electronics,Headphones,6.0,20914.0,Returning,125484.0
+1609,2023-02-14,South,Electronics,Smartphone,4.0,15955.0,New,63820.0
+1283,2023-10-07,East,Stationery,Notebook Pack,3.0,214.0,Returning,642.0
+1791,2023-02-01,West,Electronics,Smartwatch,2.0,23212.0,New,46424.0
+2069,2023-05-17,North,Grocery,Snacks Pack,1.0,128.0,New,128.0
+1094,2023-10-10,West,Clothing,Jacket,6.0,1011.0,Returning,6066.0
+1095,2023-08-06,North,Grocery,Cooking Oil 1L,1.0,355.0,Returning,355.0
+1830,2023-11-05,east,Furniture,Study Table,2.0,10791.0,New,21582.0
+1517,2023-01-21,North,Grocery,Tea 250g,1.0,285.0,Returning,285.0
+1747,2023-01-23,North,Stationery,Backpack,5.0,177.0,Returning,885.0
+1829,2023-09-01,East,Electronics,Smartwatch,2.0,6129.0,Returning,12258.0
+1058,2023-01-12,South,Stationery,Pen Set,4.0,139.0,New,556.0
+1326,2023-09-12,West,Grocery,Tea 250g,2.0,130.0,Returning,260.0
+1306,2023-05-26,South,Grocery,Snacks Pack,4.0,249.0,Returning,996.0
+1922,2023-03-20,North,Electronics,Laptop,5.0,11068.0,New,55340.0
+1024,2023-04-26,East,Electronics,Smartwatch,4.0,,New,
+1651,2023-02-06,South,Electronics,Laptop,5.0,18031.0,New,90155.0
+1244,2023-09-17,North,Furniture,Study Table,1.0,11602.0,Returning,11602.0
+1025,2023-06-12,North,Grocery,Rice 5kg,4.0,316.0,Returning,1264.0
+1222,2023-09-17,North,Electronics,Headphones,7.0,11622.0,Returning,81354.0
+1900,2023-10-25,South,Grocery,Rice 5kg,4.0,209.0,New,836.0
+1105,2023-03-28,West,Stationery,Pen Set,1.0,103.0,New,103.0
+2078,2023-09-23,East,Grocery,Tea 250g,3.0,172.0,New,516.0
+1130,2023-08-31,North,Clothing,Jeans,1.0,1236.0,New,1236.0
+1153,2023-12-14,East,Furniture,Study Table,7.0,2399.0,Returning,16793.0
+1848,2023-10-07,East,Stationery,Pen Set,2.0,775.0,New,1550.0
+1953,2023-07-29,South,Electronics,Headphones,5.0,6844.0,Returning,34220.0
+1334,2023-11-19,South,Clothing,T-Shirt,4.0,880.0,Returning,3520.0
+1135,2023-10-28,West,Clothing,T-Shirt,3.0,2189.0,Returning,6567.0
+1075,2023-11-08,West,Electronics,Laptop,6.0,23690.0,New,142140.0
+2163,2023-10-07,South,Grocery,Tea 250g,1.0,202.0,New,202.0
+2062,2023-07-24,East,Grocery,Tea 250g,7.0,172.0,New,1204.0
+1452,2023-09-13,North,Stationery,Notebook Pack,5.0,767.0,Returning,3835.0
+2141,2023-01-27,North,Electronics,Headphones,1.0,20735.0,Returning,20735.0
+2083,2023-09-05,East,Grocery,Tea 250g,2.0,302.0,New,604.0
+1430,2023-11-19,East,Electronics,Laptop,1.0,17454.0,New,17454.0
+1199,2023-03-24,north,Electronics,Headphones,6.0,9874.0,Returning,59244.0
+1845,2023-09-25,South,Grocery,Tea 250g,1.0,273.0,New,273.0
+1134,2023-02-07,North,Electronics,Headphones,2.0,9028.0,New,18056.0
+1963,2023-07-03,East,Clothing,T-Shirt,2.0,1588.0,New,3176.0
+1259,2023-11-28,East,Stationery,Pen Set,1.0,455.0,Returning,455.0
+1595,2023-02-01,East,Electronics,Headphones,2.0,16979.0,New,33958.0
+1003,2023-09-28,East,Clothing,Jacket,4.0,1567.0,Returning,6268.0
+2095,2023-05-18,North,Electronics,Smartphone,5.0,14979.0,Returning,74895.0
+1210,2023-12-26,East,Grocery,Cooking Oil 1L,3.0,363.0,Returning,1089.0
+1196,2023-01-25,North,Grocery,Cooking Oil 1L,2.0,118.0,Returning,236.0
+1770,2023-04-26,East,Grocery,Cooking Oil 1L,2.0,121.0,New,242.0
+1835,2023-08-11,South,Clothing,Jacket,7.0,1805.0,New,12635.0
+1026,2023-05-15,East,Grocery,Tea 250g,4.0,61.0,Returning,244.0
+1350,2023-09-05,West,Stationery,Pen Set,1.0,66.0,New,66.0
+1473,2023-11-28,East,Electronics,Smartphone,4.0,7989.0,Returning,31956.0
+2122,2023-06-22,East,Stationery,Notebook Pack,2.0,308.0,Returning,616.0
+1316,2023-11-08,East,Stationery,Pen Set,4.0,139.0,New,556.0
+1061,2023-10-13,North,Furniture,Office Chair,1.0,8949.0,New,8949.0
+1906,2023-11-09,North,Electronics,Smartphone,7.0,23351.0,Returning,163457.0
+2021,2023-03-18,North,Electronics,Headphones,5.0,7430.0,Returning,37150.0
+1446,2023-06-20,North,Electronics,Laptop,7.0,4375.0,Returning,30625.0
+1671,2023-07-04,South,Electronics,Headphones,6.0,21859.0,Returning,131154.0
+1627,2023-10-24,South,Grocery,Tea 250g,7.0,84.0,Returning,588.0
+1760,2023-12-08,West,Electronics,Smartwatch,5.0,17900.0,New,89500.0
+1355,2023-09-23,East,Grocery,Snacks Pack,5.0,317.0,Returning,1585.0
+2085,2023-11-04,South,Electronics,Smartphone,5.0,23202.0,Returning,116010.0
+1504,2023-06-28,East,Electronics,Headphones,5.0,20751.0,New,103755.0
+1897,2023-01-22,North,Grocery,Cooking Oil 1L,7.0,146.0,New,1022.0
+1935,2023-03-03,North,Furniture,Bookshelf,4.0,2094.0,Returning,8376.0
+1008,2023-02-10,North,Electronics,Headphones,7.0,3368.0,New,23576.0
+1418,2023-09-21,West,Stationery,Backpack,7.0,750.0,New,5250.0
+1598,2023-09-12,West,Clothing,Shoes,2.0,1925.0,New,3850.0
+2035,2023-08-18,South,Electronics,Headphones,4.0,12541.0,New,50164.0
+1510,2023-10-28,East,Clothing,Jacket,5.0,1470.0,Returning,7350.0
+2031,2023-01-13,West,Electronics,Headphones,6.0,6989.0,New,41934.0
+1806,2023-02-28,South,Grocery,Snacks Pack,1.0,325.0,New,325.0
+1463,2023-11-20,North,Electronics,Smartphone,1.0,21897.0,New,21897.0
+1074,2023-06-29,West,Electronics,Laptop,6.0,8950.0,New,53700.0
+1705,2023-10-29,South,Furniture,Bookshelf,7.0,,New,
+1057,2023-01-20,East,Electronics,Laptop,6.0,20670.0,Returning,124020.0
+2014,2023-12-29,South,Grocery,Cooking Oil 1L,2.0,156.0,New,312.0
+1455,2023-09-29,West,Grocery,Cooking Oil 1L,3.0,278.0,Returning,834.0
+1297,2023-08-03,North,Stationery,Pen Set,6.0,282.0,New,1692.0
+2045,2023-03-18,North,Grocery,Tea 250g,1.0,50.0,Returning,50.0
+1217,2023-01-23,East,Grocery,Snacks Pack,1.0,175.0,New,175.0
+1701,2023-03-25,North,Grocery,Cooking Oil 1L,5.0,257.0,New,1285.0
+1658,2023-10-26,West,Stationery,Notebook Pack,2.0,56.0,Returning,112.0
+2053,2023-01-26,West,Clothing,Shoes,2.0,1461.0,New,2922.0
+2028,2023-12-02,South,Grocery,Rice 5kg,1.0,66.0,Returning,66.0
+1673,2023-04-16,West,Grocery,Tea 250g,7.0,94.0,New,658.0
+1525,2023-04-19,North,Grocery,Snacks Pack,3.0,295.0,New,885.0
+1855,2023-05-06,North,Grocery,Rice 5kg,3.0,180.0,New,540.0
+1691,2023-08-04,East,Stationery,Backpack,5.0,179.0,Returning,895.0
+1974,2023-08-09,East,Clothing,Jeans,2.0,1565.0,New,3130.0
+1999,2023-02-18,West,Furniture,Bookshelf,1.0,7306.0,Returning,7306.0
+1266,2023-05-07,South,Electronics,Headphones,3.0,12395.0,New,37185.0
+1006,2023-01-02,South,Clothing,Jeans,6.0,1002.0,New,6012.0
+1680,2023-04-27,East,Grocery,Tea 250g,1.0,280.0,Returning,280.0
+1507,2023-06-20,West,Grocery,Rice 5kg,2.0,82.0,Returning,164.0
+2081,2023-01-04,East,Furniture,Study Table,2.0,1965.0,New,3930.0
+1138,2023-06-07,West,Stationery,Pen Set,6.0,162.0,Returning,972.0
+1163,2023-01-01,North,Electronics,Smartphone,1.0,3978.0,New,3978.0
+1722,2023-02-10,North,Electronics,Smartphone,6.0,16562.0,New,99372.0
+1697,2023-11-15,East,Electronics,Smartwatch,2.0,6224.0,New,12448.0
+2064,2023-12-28,North,Stationery,Pen Set,6.0,285.0,Returning,1710.0
+1043,2023-02-02,West,Clothing,Jacket,4.0,1740.0,New,6960.0
+1754,2023-11-27,East,Clothing,Shoes,7.0,1682.0,Returning,11774.0
+2159,2023-12-01,North,Clothing,Shoes,4.0,685.0,Returning,2740.0
+1319,2023-06-23,West,Electronics,Headphones,4.0,6739.0,New,26956.0
+2162,2023-02-28,East,Stationery,Backpack,,520.0,New,
+1782,2023-11-21,South,Electronics,Smartphone,7.0,5990.0,New,41930.0
+1860,2023-01-21,South,Grocery,Snacks Pack,5.0,305.0,New,1525.0
+1294,2023-09-22,South,Grocery,Cooking Oil 1L,6.0,114.0,New,684.0
+1407,2023-03-01,South,Furniture,Office Chair,5.0,6957.0,Returning,34785.0
+2180,2023-11-08,West,Electronics,Laptop,2.0,18669.0,New,37338.0
+1702,2023-03-21,South,Grocery,Snacks Pack,6.0,217.0,New,1302.0
+1970,2023-01-17,East,Clothing,T-Shirt,4.0,546.0,Returning,2184.0
+1019,2023-09-04,South,Grocery,Snacks Pack,1.0,279.0,New,279.0
+1736,2023-11-29,West,Grocery,Tea 250g,4.0,180.0,Returning,720.0
+1451,2023-03-17,South,Grocery,Rice 5kg,3.0,122.0,New,366.0
+1467,2023-04-16,North,Furniture,Bookshelf,2.0,4037.0,Returning,8074.0
+1962,2023-11-23,North,Electronics,Smartphone,7.0,10044.0,New,70308.0
+2047,2023-12-07,East,Furniture,Office Chair,5.0,3916.0,Returning,19580.0
+1397,2023-01-14,West,Electronics,Laptop,3.0,14678.0,New,44034.0
+1447,2023-10-13,North,Furniture,Study Table,5.0,4210.0,New,21050.0
+1137,2023-06-04,West,Furniture,Bookshelf,5.0,9061.0,New,45305.0
+1698,2023-01-16,East,Clothing,Jeans,,1402.0,New,
+1518,2023-01-25,South,Clothing,T-Shirt,1.0,1201.0,New,1201.0
+1185,2023-01-19,East,Grocery,Cooking Oil 1L,7.0,75.0,New,525.0
+1951,2023-05-14,East,Stationery,Notebook Pack,5.0,284.0,New,1420.0
+1412,2023-11-23,South,Electronics,Smartwatch,7.0,12771.0,New,89397.0
+2149,2023-05-29,South,Electronics,Smartwatch,7.0,18149.0,Returning,127043.0
+1509,2023-11-19,East,Stationery,Pen Set,7.0,416.0,New,2912.0
+2139,2023-04-23,North,Clothing,T-Shirt,3.0,1738.0,Returning,5214.0
+1483,2023-10-26,North,Electronics,Headphones,3.0,19983.0,New,59949.0
+1327,2023-06-22,North,Electronics,Headphones,7.0,23873.0,Returning,167111.0
+1317,2023-12-28,East,Furniture,Office Chair,5.0,8099.0,Returning,40495.0
+2197,2023-09-07,South,Clothing,Jeans,2.0,2288.0,New,4576.0
+2160,2023-02-16,North,Clothing,Jeans,4.0,2213.0,New,8852.0
+1526,2023-10-25,East,Furniture,Office Chair,2.0,1698.0,Returning,3396.0
+1720,2023-08-30,East,Stationery,Pen Set,1.0,784.0,New,784.0
+1902,2023-02-24,East,Furniture,Office Chair,6.0,10488.0,Returning,62928.0
+2089,2023-06-05,West,Grocery,Rice 5kg,4.0,337.0,New,1348.0
+2132,2023-08-18,South,Clothing,Jeans,5.0,1152.0,Returning,5760.0
+2184,2023-09-09,West,Clothing,Jacket,1.0,1119.0,New,1119.0
+1148,2023-11-15,North,Grocery,Rice 5kg,3.0,316.0,New,948.0
+1878,2023-04-20,South,Grocery,Tea 250g,7.0,50.0,New,350.0
+1983,2023-09-02,South,Electronics,Smartwatch,5.0,24395.0,Returning,121975.0
+1530,2023-11-14,South,Furniture,Office Chair,1.0,7231.0,New,7231.0
+1752,2023-01-25,East,Electronics,Smartphone,6.0,19558.0,New,117348.0
+1969,2023-12-22,East,Stationery,Backpack,6.0,560.0,New,3360.0
+1365,2023-09-13,South,Clothing,Jacket,4.0,1122.0,Returning,4488.0
+1635,2023-12-28,North,Grocery,Snacks Pack,3.0,105.0,New,315.0
+1883,2023-05-15,North,Grocery,Rice 5kg,1.0,115.0,Returning,115.0
+1819,2023-11-24,West,Clothing,Shoes,5.0,1644.0,Returning,8220.0
+2140,2023-09-02,South,Clothing,Shoes,4.0,2212.0,New,8848.0
+1933,2023-06-11,east,Furniture,Office Chair,7.0,10164.0,New,71148.0
+1488,2023-02-23,South,Clothing,T-Shirt,6.0,1097.0,New,6582.0
+1232,2023-10-28,North,Furniture,Bookshelf,2.0,2189.0,New,4378.0
+1734,2023-08-23,North,Furniture,Bookshelf,3.0,6712.0,New,20136.0
+1594,2023-03-18,North,Furniture,Study Table,7.0,8818.0,Returning,61726.0
+1799,2023-11-06,North,Electronics,Smartwatch,2.0,13022.0,Returning,26044.0
+1724,2023-09-16,West,Electronics,Smartphone,2.0,15851.0,Returning,31702.0
+1158,2023-06-01,East,Clothing,Jacket,4.0,1741.0,Returning,6964.0
+1315,2023-06-06,South,Electronics,Smartwatch,4.0,7414.0,New,29656.0
+1256,2023-07-15,West,Electronics,Smartwatch,1.0,8604.0,New,8604.0
+1751,2023-06-20,north,Clothing,T-Shirt,5.0,348.0,New,1740.0
+1096,2023-05-13,North,Stationery,Backpack,4.0,511.0,Returning,2044.0
+2174,2023-05-12,South,Stationery,Backpack,2.0,458.0,New,916.0
+2044,2023-12-29,East,Clothing,Shoes,1.0,831.0,New,831.0
+1384,2023-04-02,South,Electronics,Smartwatch,2.0,11440.0,Returning,22880.0
+2015,2023-06-14,East,Stationery,Notebook Pack,2.0,733.0,Returning,1466.0
+1177,2023-07-22,West,Clothing,Shoes,6.0,2125.0,New,12750.0
+1328,2023-08-29,East,Grocery,Tea 250g,3.0,212.0,New,636.0
+1314,2023-08-16,South,Furniture,Office Chair,1.0,10335.0,New,10335.0
+1415,2023-07-04,West,Furniture,Bookshelf,3.0,7418.0,Returning,22254.0
+1357,2023-09-19,South,Stationery,Notebook Pack,3.0,390.0,Returning,1170.0
+1347,2023-11-24,North,Electronics,Headphones,5.0,17323.0,Returning,86615.0
+2165,2023-11-02,North,Clothing,T-Shirt,7.0,1337.0,New,9359.0
+1298,2023-09-26,South,Grocery,Rice 5kg,1.0,376.0,Returning,376.0
+1551,2023-03-24,North,Clothing,T-Shirt,3.0,1288.0,Returning,3864.0
+1798,2023-09-27,West,Electronics,Headphones,3.0,10346.0,New,31038.0
+1937,2023-10-06,West,Electronics,Smartwatch,3.0,20276.0,New,60828.0
+1694,2023-10-18,East,Clothing,T-Shirt,7.0,996.0,New,6972.0
+1801,2023-10-03,South,Electronics,Laptop,4.0,7591.0,New,30364.0
+1648,2023-07-27,West,Clothing,T-Shirt,3.0,2021.0,Returning,6063.0
+1249,2023-09-05,North,Electronics,Laptop,4.0,23328.0,Returning,93312.0
+1789,2023-01-10,South,Furniture,Office Chair,5.0,2468.0,New,12340.0
+1015,2023-12-14,North,Clothing,Jeans,1.0,1272.0,New,1272.0
+2125,2023-06-24,East,Stationery,Backpack,2.0,546.0,Returning,1092.0
+1159,2023-09-25,East,Clothing,Jeans,7.0,2447.0,Returning,17129.0
+1964,2023-04-24,South,Furniture,Office Chair,2.0,10367.0,New,20734.0
+1761,2023-09-27,North,Electronics,Headphones,6.0,8751.0,Returning,52506.0
+1360,2023-03-10,North,Electronics,Smartphone,5.0,22225.0,New,111125.0
+1048,2023-07-06,North,Electronics,Smartwatch,1.0,4971.0,Returning,4971.0
+1508,2023-11-15,South,Grocery,Snacks Pack,7.0,259.0,New,1813.0
+1330,2023-07-12,East,Electronics,Smartphone,1.0,19964.0,Returning,19964.0
+1547,2023-11-14,East,Electronics,Laptop,1.0,15148.0,New,15148.0
+1679,2023-06-26,East,Clothing,Jeans,4.0,1942.0,Returning,7768.0
+1112,2023-01-29,East,Electronics,Laptop,6.0,6275.0,Returning,37650.0
+1338,2023-08-29,South,Clothing,Jacket,2.0,742.0,Returning,1484.0
+1307,2023-01-16,South,Clothing,Jeans,6.0,2178.0,New,13068.0
+2164,2023-09-13,South,Clothing,Jacket,6.0,341.0,Returning,2046.0
+1422,2023-05-20,West,Grocery,Cooking Oil 1L,3.0,360.0,New,1080.0
+1416,2023-07-09,North,Stationery,Backpack,6.0,,New,
+2190,2023-08-19,east,Grocery,Rice 5kg,7.0,111.0,Returning,777.0
+1506,2023-07-19,West,Electronics,Headphones,1.0,2489.0,New,2489.0
+1778,2023-12-28,North,Furniture,Office Chair,6.0,1986.0,Returning,11916.0
+1839,2023-11-16,South,Electronics,Smartwatch,3.0,16324.0,Returning,48972.0
+1756,2023-08-17,North,Grocery,Cooking Oil 1L,6.0,142.0,New,852.0
+1395,2023-03-15,North,Electronics,Headphones,3.0,11894.0,Returning,35682.0
+2104,2023-02-20,North,Electronics,Smartphone,7.0,24290.0,New,170030.0
+1459,2023-10-20,South,Grocery,Snacks Pack,6.0,145.0,New,870.0
+1558,2023-02-13,North,Stationery,Notebook Pack,5.0,179.0,Returning,895.0
+1127,2023-06-26,North,Electronics,Smartphone,2.0,23651.0,New,47302.0
+1511,2023-01-14,East,Furniture,Office Chair,3.0,6034.0,New,18102.0
+1925,2023-04-05,North,Furniture,Study Table,6.0,2255.0,New,13530.0
+1528,2023-10-03,North,Clothing,T-Shirt,1.0,1957.0,Returning,1957.0
+1591,2023-06-10,South,Grocery,Tea 250g,2.0,389.0,New,778.0
+1449,2023-08-17,South,Stationery,Pen Set,3.0,450.0,Returning,1350.0
+1237,2023-04-22,South,Electronics,Smartphone,3.0,13724.0,Returning,41172.0
+1167,2023-06-27,North,Clothing,Jeans,6.0,1659.0,New,9954.0
+1620,2023-07-30,West,Grocery,Rice 5kg,3.0,168.0,New,504.0
+1941,2023-09-11,South,Grocery,Cooking Oil 1L,5.0,113.0,New,565.0
+1080,2023-04-05,north,Electronics,Headphones,3.0,3390.0,Returning,10170.0
+1414,2023-04-30,West,Electronics,Smartphone,3.0,7701.0,Returning,23103.0
+1842,2023-10-14,North,Electronics,Laptop,4.0,14061.0,Returning,56244.0
+1300,2023-09-21,North,Electronics,Laptop,2.0,5745.0,New,11490.0
+1632,2023-08-20,East,Electronics,Headphones,1.0,13267.0,New,13267.0
+1324,2023-04-17,West,Clothing,Shoes,7.0,307.0,New,2149.0
+1489,2023-04-03,West,Furniture,Study Table,3.0,8219.0,Returning,24657.0
+1215,2023-08-24,South,Electronics,Smartwatch,3.0,11573.0,Returning,34719.0
+1611,2023-07-12,East,Grocery,Snacks Pack,6.0,304.0,New,1824.0
+1030,2023-10-08,East,Clothing,Jeans,6.0,925.0,New,5550.0
+1242,2023-02-16,South,Electronics,Smartphone,2.0,7771.0,New,15542.0
+1718,2023-08-08,West,Electronics,Smartphone,5.0,8442.0,New,42210.0
+1886,2023-08-30,East,Grocery,Snacks Pack,2.0,311.0,New,622.0
+1985,2023-03-29,West,Stationery,Notebook Pack,7.0,748.0,Returning,5236.0
+1209,2023-09-18,North,Grocery,Tea 250g,2.0,259.0,Returning,518.0
+2061,2023-05-16,West,Grocery,Snacks Pack,6.0,206.0,New,1236.0
+2018,2023-10-18,North,Clothing,Jeans,5.0,1231.0,Returning,6155.0
+1968,2023-03-04,North,Clothing,Jacket,1.0,1417.0,Returning,1417.0
+1435,2023-03-02,East,Furniture,Study Table,7.0,5432.0,New,38024.0
+1027,2023-02-20,South,Furniture,Bookshelf,5.0,10507.0,Returning,52535.0
+2075,2023-12-18,South,Clothing,T-Shirt,2.0,2382.0,New,4764.0
+1638,2023-04-24,West,Clothing,Jacket,6.0,2128.0,New,12768.0
+1122,2023-09-27,north,Electronics,Laptop,2.0,9818.0,Returning,19636.0
+2101,2023-01-16,North,Electronics,Smartwatch,2.0,23358.0,Returning,46716.0
+1462,2023-08-27,South,Furniture,Office Chair,2.0,8281.0,New,16562.0
+2042,2023-12-09,East,Electronics,Laptop,5.0,6089.0,New,30445.0
+2133,2023-08-25,East,Clothing,Jeans,6.0,1923.0,New,11538.0
+1621,2023-09-28,East,Electronics,Smartwatch,6.0,24562.0,New,147372.0
+1960,2023-10-18,North,Furniture,Study Table,4.0,11362.0,Returning,45448.0
+2048,2023-03-11,South,Clothing,T-Shirt,1.0,1017.0,New,1017.0
+1743,2023-04-26,East,Electronics,Smartphone,1.0,18525.0,New,18525.0
+1626,2023-04-16,North,Clothing,Jeans,4.0,885.0,New,3540.0
+1688,2023-06-15,West,Furniture,Study Table,2.0,9169.0,Returning,18338.0
+1831,2023-08-07,South,Clothing,Shoes,4.0,2325.0,New,9300.0
+2193,2023-10-10,East,Grocery,Snacks Pack,5.0,185.0,New,925.0
+1202,2023-03-03,East,Clothing,Jeans,5.0,2211.0,Returning,11055.0
+1403,2023-03-29,West,Furniture,Office Chair,4.0,4794.0,Returning,19176.0
+2145,2023-11-26,North,Furniture,Study Table,3.0,8541.0,New,25623.0
+2196,2023-01-13,East,Grocery,Rice 5kg,3.0,394.0,Returning,1182.0
+1362,2023-06-28,West,Furniture,Office Chair,6.0,4412.0,Returning,26472.0
+1271,2023-01-02,South,Clothing,Jacket,2.0,567.0,Returning,1134.0
+1466,2023-11-02,west,Electronics,Headphones,4.0,7935.0,Returning,31740.0
+2076,2023-05-26,South,Clothing,T-Shirt,5.0,2151.0,New,10755.0
+1239,2023-08-20,North,Furniture,Study Table,6.0,8693.0,Returning,52158.0
+1277,2023-06-25,East,Electronics,Smartwatch,7.0,16547.0,Returning,115829.0
+2074,2023-08-07,North,Grocery,Cooking Oil 1L,4.0,146.0,Returning,584.0
+1706,2023-07-10,South,Stationery,Notebook Pack,4.0,186.0,Returning,744.0
+1687,2023-11-12,North,Electronics,Headphones,2.0,14303.0,New,28606.0
+1442,2023-07-17,west,Grocery,Cooking Oil 1L,1.0,52.0,Returning,52.0
+1299,2023-03-15,East,Grocery,Tea 250g,4.0,92.0,New,368.0
+1375,2023-10-22,South,Electronics,Smartphone,5.0,16610.0,New,83050.0
+1657,2023-01-16,north,Furniture,Bookshelf,7.0,9514.0,New,66598.0
+1790,2023-05-12,West,Clothing,Jeans,1.0,1101.0,New,1101.0
+1674,2023-11-09,South,Furniture,Office Chair,4.0,11586.0,New,46344.0
+1472,2023-01-12,East,Grocery,Tea 250g,5.0,185.0,Returning,925.0
+1572,2023-08-21,North,Electronics,Smartphone,7.0,8128.0,New,56896.0
+2094,2023-05-06,North,Electronics,Headphones,7.0,9167.0,New,64169.0
+1388,2023-04-20,West,Electronics,Smartwatch,2.0,20230.0,Returning,40460.0
+1022,2023-10-25,North,Electronics,Smartwatch,1.0,17171.0,Returning,17171.0
+1928,2023-05-07,East,Grocery,Snacks Pack,,100.0,Returning,
+1891,2023-09-18,West,Electronics,Laptop,3.0,19971.0,Returning,59913.0
+1423,2023-05-19,East,Grocery,Snacks Pack,2.0,380.0,Returning,760.0
+1971,2023-02-16,South,Grocery,Tea 250g,4.0,155.0,New,620.0
+1731,2023-12-07,East,Electronics,Smartphone,1.0,17248.0,New,17248.0
+1662,2023-01-22,East,Electronics,Smartwatch,7.0,2382.0,New,16674.0
+1335,2023-11-09,South,Grocery,Tea 250g,5.0,124.0,Returning,620.0
+1142,2023-08-15,North,Grocery,Tea 250g,3.0,97.0,Returning,291.0
+1050,2023-06-30,West,Clothing,Jacket,2.0,1538.0,Returning,3076.0
+1685,2023-05-13,East,Stationery,Notebook Pack,5.0,,New,
+1748,2023-09-30,west,Stationery,Backpack,2.0,226.0,Returning,452.0
+1081,2023-08-08,West,Stationery,Backpack,1.0,243.0,Returning,243.0
+1482,2023-02-21,West,Clothing,T-Shirt,3.0,2335.0,New,7005.0
+1321,2023-04-03,North,Clothing,T-Shirt,1.0,2397.0,Returning,2397.0
+1982,2023-02-01,North,Stationery,Pen Set,4.0,256.0,New,1024.0
+2071,2023-12-17,West,Furniture,Study Table,6.0,9049.0,Returning,54294.0
+2153,2023-11-30,East,Stationery,Backpack,4.0,589.0,Returning,2356.0
+1066,2023-09-08,South,Clothing,Shoes,7.0,1552.0,New,10864.0
+2177,2023-12-03,East,Clothing,Jacket,5.0,2025.0,New,10125.0
+1623,2023-03-23,West,Furniture,Study Table,2.0,8154.0,Returning,16308.0
+2170,2023-03-08,East,Electronics,Laptop,3.0,13389.0,Returning,40167.0
+1417,2023-07-24,South,Electronics,Smartwatch,7.0,19180.0,New,134260.0
+1889,2023-01-07,East,Grocery,Snacks Pack,1.0,247.0,New,247.0
+1064,2023-02-20,North,Electronics,Smartwatch,1.0,13575.0,New,13575.0
+1924,2023-11-07,West,Grocery,Cooking Oil 1L,7.0,77.0,Returning,539.0
+1915,2023-08-09,North,Grocery,Tea 250g,1.0,65.0,New,65.0
+1716,2023-12-24,North,Furniture,Bookshelf,6.0,2055.0,Returning,12330.0
+1491,2023-11-02,North,Clothing,Shoes,4.0,1511.0,New,6044.0
+1721,2023-09-07,South,Furniture,Bookshelf,7.0,4068.0,New,28476.0
+1813,2023-01-09,South,Stationery,Backpack,4.0,729.0,New,2916.0
+1065,2023-06-03,East,Clothing,Jeans,3.0,2284.0,New,6852.0
+2002,2023-07-03,South,Grocery,Tea 250g,7.0,168.0,Returning,1176.0
+1585,2023-01-20,North,Stationery,Backpack,2.0,605.0,New,1210.0
+2060,2023-03-06,East,Clothing,T-Shirt,7.0,923.0,New,6461.0
+1296,2023-06-11,North,Furniture,Study Table,2.0,11850.0,Returning,23700.0
+1419,2023-01-02,East,Furniture,Bookshelf,7.0,2617.0,New,18319.0
+1438,2023-10-05,East,Electronics,Laptop,1.0,12254.0,New,12254.0
+1261,2023-03-08,North,Grocery,Cooking Oil 1L,3.0,296.0,Returning,888.0
+1714,2023-07-25,East,Grocery,Tea 250g,2.0,376.0,New,752.0
+1281,2023-06-14,South,Clothing,T-Shirt,6.0,1702.0,Returning,10212.0
+1649,2023-09-21,North,Clothing,Jacket,5.0,670.0,New,3350.0
+1696,2023-09-13,North,Electronics,Smartwatch,4.0,17832.0,New,71328.0
+1188,2023-09-15,East,Clothing,Jacket,6.0,961.0,Returning,5766.0
+2063,2023-06-23,East,Grocery,Snacks Pack,2.0,66.0,New,132.0
+1251,2023-02-08,West,Furniture,Office Chair,3.0,2877.0,New,8631.0
+1887,2023-08-17,East,Electronics,Smartwatch,6.0,20867.0,New,125202.0
+1514,2023-08-02,West,Furniture,Office Chair,1.0,6514.0,New,6514.0
+1656,2023-02-15,East,Furniture,Study Table,5.0,3059.0,New,15295.0
+1487,2023-03-16,South,Stationery,Backpack,3.0,416.0,New,1248.0
+1273,2023-05-26,North,Clothing,T-Shirt,5.0,1353.0,New,6765.0
+1976,2023-03-18,West,Grocery,Snacks Pack,5.0,58.0,New,290.0
+2088,2023-06-25,South,Stationery,Notebook Pack,6.0,616.0,New,3696.0
+1448,2023-05-02,South,Electronics,Smartwatch,7.0,19237.0,New,134659.0
+1411,2023-12-03,North,Furniture,Study Table,2.0,1946.0,Returning,3892.0
+1869,2023-09-05,West,Stationery,Backpack,7.0,335.0,New,2345.0
+1738,2023-11-29,West,Grocery,Rice 5kg,2.0,180.0,New,360.0
+1950,2023-12-17,West,Grocery,Snacks Pack,,399.0,Returning,
+1966,2023-05-08,North,Electronics,Headphones,4.0,17845.0,New,71380.0
+1149,2023-04-05,East,Grocery,Snacks Pack,1.0,306.0,New,306.0
+1218,2023-05-09,West,Grocery,Snacks Pack,3.0,393.0,Returning,1179.0
+1239,2023-08-20,North,Furniture,Study Table,6.0,8693.0,Returning,52158.0
+1739,2023-04-09,East,Furniture,Bookshelf,3.0,5120.0,Returning,15360.0
+1192,2023-12-07,East,Clothing,T-Shirt,3.0,2025.0,New,6075.0
+1191,2023-08-19,West,Furniture,Office Chair,6.0,7757.0,New,46542.0
+1602,2023-04-08,East,Furniture,Bookshelf,5.0,9917.0,Returning,49585.0
+1740,2023-02-21,North,Furniture,Study Table,4.0,9945.0,Returning,39780.0
+1618,2023-01-19,West,Grocery,Snacks Pack,6.0,78.0,New,468.0
+2115,2023-06-17,South,Clothing,Jacket,3.0,2093.0,New,6279.0
+1936,2023-11-15,East,Grocery,Rice 5kg,3.0,235.0,Returning,705.0
+1957,2023-08-15,North,Grocery,Snacks Pack,6.0,219.0,New,1314.0
+1729,2023-10-29,South,Clothing,Jeans,4.0,1869.0,Returning,7476.0
+1582,2023-12-04,North,Grocery,Cooking Oil 1L,2.0,164.0,Returning,328.0
+2123,2023-06-27,East,Furniture,Office Chair,2.0,2717.0,New,5434.0
+1323,2023-11-07,West,Electronics,Smartphone,4.0,1419.0,Returning,5676.0
+1948,2023-03-30,West,Electronics,Smartphone,3.0,20815.0,New,62445.0
+1875,2023-10-25,North,Furniture,Office Chair,2.0,5061.0,New,10122.0
+1677,2023-07-30,East,Electronics,Smartwatch,3.0,17885.0,New,53655.0
+1437,2023-08-08,North,Stationery,Notebook Pack,2.0,613.0,New,1226.0
+1793,2023-06-03,North,Clothing,Jeans,2.0,1946.0,Returning,3892.0
+1858,2023-04-17,East,Electronics,Smartphone,4.0,21302.0,New,85208.0
+1341,2023-05-06,West,Clothing,Jeans,5.0,1464.0,Returning,7320.0
+1002,2023-06-10,North,Clothing,Jeans,1.0,1382.0,Returning,1382.0
+1229,2023-03-31,West,Electronics,Laptop,3.0,3639.0,New,10917.0
+1665,2023-08-17,South,Furniture,Office Chair,7.0,10197.0,New,71379.0
+2169,2023-10-09,South,Clothing,Jacket,4.0,2355.0,New,9420.0
+1076,2023-07-11,North,Electronics,Headphones,7.0,19160.0,New,134120.0
+2118,2023-09-19,East,Grocery,Rice 5kg,7.0,146.0,Returning,1022.0
+1371,2023-05-14,North,Furniture,Study Table,1.0,8581.0,New,8581.0
+1180,2023-09-20,East,Furniture,Office Chair,3.0,10935.0,New,32805.0
+1732,2023-08-21,West,Clothing,Shoes,1.0,1769.0,New,1769.0
+1577,2023-01-18,East,Clothing,Jacket,5.0,1394.0,Returning,6970.0
+1757,2023-12-29,East,Clothing,Jacket,6.0,464.0,Returning,2784.0
+1781,2023-02-27,East,Electronics,Smartwatch,7.0,24988.0,Returning,174916.0
+2114,2023-03-20,East,Furniture,Office Chair,5.0,10492.0,Returning,52460.0
+2027,2023-01-07,north,Grocery,Snacks Pack,6.0,255.0,New,1530.0
+1666,2023-06-20,North,Electronics,Headphones,1.0,4867.0,Returning,4867.0
+1589,2023-10-14,West,Electronics,Smartwatch,2.0,13617.0,New,27234.0
+1795,2023-12-11,North,Stationery,Pen Set,4.0,755.0,Returning,3020.0
+1837,2023-03-31,West,Furniture,Office Chair,4.0,11947.0,New,47788.0
+1990,2023-09-03,east,Electronics,Laptop,1.0,6491.0,New,6491.0
+2087,2023-12-18,South,Electronics,Smartphone,6.0,19658.0,New,117948.0
+1037,2023-04-02,North,Grocery,Cooking Oil 1L,5.0,168.0,New,840.0
+1353,2023-02-10,South,Electronics,Smartwatch,3.0,16993.0,New,50979.0
+2110,2023-01-02,East,Stationery,Notebook Pack,2.0,124.0,New,248.0
+1236,2023-02-12,South,Electronics,Smartphone,2.0,18701.0,Returning,37402.0
+1959,2023-08-15,East,Grocery,Cooking Oil 1L,2.0,93.0,Returning,186.0
+1499,2023-12-30,South,Electronics,Smartphone,3.0,13809.0,New,41427.0
+1553,2023-07-26,East,Furniture,Study Table,7.0,3416.0,New,23912.0
+1055,2023-12-27,East,Grocery,Snacks Pack,6.0,351.0,Returning,2106.0
+1302,2023-11-16,West,Clothing,Jacket,3.0,2246.0,Returning,6738.0
+1286,2023-02-15,North,Electronics,Smartphone,3.0,5561.0,New,16683.0
+1824,2023-03-08,North,Clothing,Jacket,5.0,2074.0,Returning,10370.0
+1219,2023-10-29,East,Grocery,Snacks Pack,5.0,93.0,New,465.0
+2144,2023-03-13,West,Electronics,Smartwatch,7.0,5990.0,Returning,41930.0
+1387,2023-03-03,East,Grocery,Snacks Pack,,212.0,New,
+1758,2023-08-13,North,Grocery,Snacks Pack,2.0,372.0,New,744.0
+1390,2023-10-29,South,Grocery,Cooking Oil 1L,6.0,143.0,New,858.0
+1352,2023-09-23,North,Clothing,Jacket,4.0,321.0,New,1284.0
+1193,2023-05-23,South,Stationery,Notebook Pack,4.0,478.0,New,1912.0
+1235,2023-06-27,North,Grocery,Snacks Pack,7.0,191.0,New,1337.0
+2024,2023-09-07,South,Grocery,Tea 250g,2.0,97.0,Returning,194.0
+1480,2023-11-22,north,Grocery,Tea 250g,3.0,236.0,Returning,708.0
+1567,2023-03-14,South,Furniture,Office Chair,2.0,7750.0,New,15500.0
+1116,2023-06-13,East,Grocery,Snacks Pack,6.0,108.0,New,648.0
+1890,2023-03-18,West,Electronics,Laptop,3.0,1009.0,New,3027.0
+1653,2023-05-15,North,Grocery,Rice 5kg,6.0,168.0,New,1008.0
+2079,2023-02-19,East,Clothing,T-Shirt,7.0,1168.0,New,8176.0
+2121,2023-05-01,North,Stationery,Notebook Pack,3.0,386.0,New,1158.0
+1788,2023-12-20,East,Electronics,Laptop,3.0,23644.0,Returning,70932.0
+1800,2023-01-03,South,Electronics,Laptop,4.0,16048.0,New,64192.0
+1120,2023-11-07,South,Clothing,Shoes,3.0,2050.0,Returning,6150.0
+1840,2023-10-09,West,Electronics,Smartwatch,1.0,15882.0,New,15882.0
+2033,2023-01-03,South,Clothing,T-Shirt,3.0,986.0,New,2958.0
+1796,2023-06-05,North,Electronics,Headphones,5.0,19647.0,New,98235.0
+1062,2023-11-11,North,Furniture,Office Chair,1.0,3500.0,Returning,3500.0
+1699,2023-07-05,East,Clothing,Shoes,5.0,1763.0,New,8815.0
+1453,2023-11-10,North,Clothing,Jacket,6.0,415.0,New,2490.0
+1515,2023-05-26,East,Grocery,Rice 5kg,7.0,340.0,New,2380.0
+1570,2023-12-29,South,Furniture,Study Table,4.0,3849.0,Returning,15396.0
+1223,2023-09-11,West,Clothing,Jeans,7.0,2201.0,Returning,15407.0
+1613,2023-10-19,South,Clothing,Jeans,1.0,1394.0,New,1394.0
+1221,2023-04-21,East,Clothing,Shoes,6.0,2128.0,New,12768.0
+1744,2023-09-01,North,Grocery,Snacks Pack,1.0,131.0,New,131.0
+1817,2023-05-27,South,Clothing,Jeans,1.0,313.0,Returning,313.0
+1465,2023-05-10,East,Grocery,Tea 250g,6.0,146.0,Returning,876.0
+1052,2023-05-02,North,Electronics,Headphones,3.0,14607.0,New,43821.0
+2108,2023-09-12,East,Clothing,T-Shirt,3.0,821.0,New,2463.0
+1485,2023-08-20,East,Clothing,Shoes,7.0,2244.0,New,15708.0
+2155,2023-05-24,South,Grocery,Tea 250g,1.0,117.0,New,117.0
+1945,2023-11-20,North,Electronics,Smartwatch,3.0,24216.0,Returning,72648.0
+1155,2023-05-27,North,Stationery,Notebook Pack,7.0,643.0,New,4501.0
+1943,2023-08-16,East,Grocery,Rice 5kg,2.0,81.0,New,162.0
+1600,2023-03-19,North,Electronics,Smartphone,1.0,12631.0,New,12631.0
+1901,2023-01-18,North,Furniture,Bookshelf,5.0,4258.0,New,21290.0
+1248,2023-06-25,West,Grocery,Rice 5kg,3.0,328.0,New,984.0
+1441,2023-03-01,North,Electronics,Smartphone,7.0,8184.0,New,57288.0
+2011,2023-11-29,South,Stationery,Backpack,2.0,402.0,New,804.0
+2111,2023-03-16,East,Grocery,Snacks Pack,3.0,259.0,New,777.0
+1542,2023-07-28,East,Clothing,T-Shirt,5.0,1056.0,Returning,5280.0
+1117,2023-08-27,West,Electronics,Laptop,1.0,24285.0,New,24285.0
+2173,2023-05-21,East,Electronics,Smartwatch,2.0,3842.0,New,7684.0
+1628,2023-03-19,South,Furniture,Office Chair,3.0,2008.0,New,6024.0
+1733,2023-07-25,South,Grocery,Tea 250g,6.0,307.0,Returning,1842.0
+1947,2023-05-05,North,Grocery,Snacks Pack,6.0,230.0,Returning,1380.0
+1291,2023-11-16,West,Electronics,Smartwatch,1.0,20919.0,New,20919.0
+2055,2023-03-21,West,Clothing,Jacket,6.0,919.0,Returning,5514.0
+1381,2023-12-05,South,Electronics,Smartphone,3.0,22810.0,New,68430.0
+1903,2023-06-12,East,Electronics,Laptop,6.0,24002.0,Returning,144012.0
+1836,2023-02-07,East,Furniture,Bookshelf,1.0,2260.0,New,2260.0
+1200,2023-02-09,North,Furniture,Bookshelf,5.0,6017.0,Returning,30085.0
+1596,2023-09-20,South,Furniture,Bookshelf,4.0,9287.0,Returning,37148.0
+2012,2023-10-23,North,Furniture,Study Table,2.0,2476.0,New,4952.0
+2152,2023-02-03,West,Grocery,Cooking Oil 1L,3.0,102.0,New,306.0
+1283,2023-10-07,East,Stationery,Notebook Pack,3.0,214.0,Returning,642.0
+1712,2023-02-17,East,Furniture,Study Table,5.0,11683.0,New,58415.0
+1505,2023-11-23,West,Electronics,Smartphone,6.0,12471.0,Returning,74826.0
+1348,2023-03-10,South,Electronics,Laptop,2.0,21135.0,New,42270.0
+2033,2023-01-03,South,Clothing,T-Shirt,3.0,986.0,New,2958.0
+1537,2023-06-27,South,Clothing,T-Shirt,7.0,1712.0,Returning,11984.0
+1340,2023-10-19,West,Stationery,Backpack,7.0,456.0,New,3192.0
+1615,2023-07-12,East,Grocery,Cooking Oil 1L,1.0,166.0,New,166.0
+1154,2023-01-03,East,Electronics,Smartwatch,3.0,16113.0,Returning,48339.0
+2119,2023-04-28,South,Electronics,Headphones,7.0,7761.0,Returning,54327.0
+1785,2023-11-03,North,Electronics,Smartphone,7.0,6441.0,New,45087.0
+1077,2023-01-25,East,Furniture,Office Chair,3.0,11850.0,New,35550.0
+1287,2023-04-12,East,Clothing,Jeans,7.0,1014.0,Returning,7098.0
+1322,2023-06-18,South,Electronics,Laptop,3.0,16249.0,Returning,48747.0
+2146,2023-10-11,West,Electronics,Smartphone,4.0,17933.0,New,71732.0
+1843,2023-02-17,South,Electronics,Headphones,4.0,1056.0,New,4224.0
+1820,2023-12-12,North,Grocery,Snacks Pack,4.0,233.0,New,932.0
+1082,2023-01-26,North,Electronics,Smartwatch,2.0,10133.0,New,20266.0
+1816,2023-11-02,East,Stationery,Notebook Pack,1.0,438.0,New,438.0
+1464,2023-06-08,South,Grocery,Rice 5kg,7.0,220.0,New,1540.0
+1934,2023-03-23,South,Electronics,Smartphone,4.0,16351.0,New,65404.0
+1779,2023-05-05,East,Grocery,Cooking Oil 1L,5.0,278.0,New,1390.0
+2185,2023-06-26,South,Clothing,T-Shirt,6.0,749.0,New,4494.0
+1794,2023-08-29,East,Electronics,Headphones,6.0,8120.0,New,48720.0
+1333,2023-11-20,South,Electronics,Laptop,3.0,16439.0,Returning,49317.0
+1010,2023-11-24,North,Clothing,T-Shirt,7.0,2051.0,Returning,14357.0
+1470,2023-10-10,North,Grocery,Cooking Oil 1L,1.0,112.0,Returning,112.0
+1032,2023-01-26,East,Furniture,Office Chair,4.0,3868.0,New,15472.0
+1190,2023-08-25,North,Electronics,Laptop,5.0,23283.0,New,116415.0
+1413,2023-03-18,West,Grocery,Cooking Oil 1L,6.0,111.0,New,666.0
+1580,2023-02-04,East,Clothing,Jacket,4.0,2466.0,Returning,9864.0
+1382,2023-03-03,North,Furniture,Office Chair,4.0,11647.0,New,46588.0
+2106,2023-09-11,North,Clothing,Jacket,3.0,1441.0,Returning,4323.0
+1783,2023-06-11,North,Stationery,Notebook Pack,3.0,111.0,Returning,333.0
+2148,2023-03-22,East,Electronics,Laptop,2.0,5990.0,Returning,11980.0
+1882,2023-07-02,East,Grocery,Cooking Oil 1L,7.0,270.0,New,1890.0
+2157,2023-02-17,North,Furniture,Office Chair,2.0,7090.0,Returning,14180.0
+1378,2023-12-05,West,Furniture,Office Chair,3.0,10947.0,Returning,32841.0
+1089,2023-12-19,East,Grocery,Snacks Pack,1.0,348.0,Returning,348.0
+1815,2023-05-20,South,Stationery,Pen Set,5.0,369.0,New,1845.0
+1601,2023-05-23,South,Grocery,Rice 5kg,6.0,43.0,New,258.0
+1213,2023-04-24,West,Stationery,Pen Set,4.0,271.0,Returning,1084.0
+1332,2023-05-12,South,Furniture,Bookshelf,5.0,2114.0,New,10570.0
+1133,2023-05-03,North,Electronics,Headphones,2.0,14574.0,New,29148.0
+1346,2023-05-31,East,Clothing,Jeans,5.0,674.0,Returning,3370.0
+1880,2023-10-10,South,Clothing,T-Shirt,2.0,1446.0,Returning,2892.0
+1007,2023-09-27,North,Grocery,Snacks Pack,7.0,92.0,New,644.0
+1863,2023-10-12,North,Electronics,Smartwatch,2.0,10873.0,Returning,21746.0
+1320,2023-03-02,North,Stationery,Pen Set,6.0,52.0,New,312.0
+2058,2023-06-01,North,Clothing,Jeans,,922.0,New,
+1187,2023-09-21,East,Furniture,Study Table,4.0,10033.0,Returning,40132.0
+2008,2023-05-24,South,Stationery,Pen Set,6.0,571.0,New,3426.0
+1552,2023-02-11,South,Electronics,Laptop,2.0,21014.0,Returning,42028.0
+1304,2023-06-24,West,Electronics,Headphones,,20791.0,New,
+1031,2023-06-04,East,Electronics,Smartphone,1.0,8360.0,New,8360.0
+1856,2023-02-23,West,Electronics,Smartphone,2.0,24529.0,New,49058.0
+1684,2023-02-03,North,Electronics,Laptop,3.0,11877.0,New,35631.0
+2080,2023-04-21,South,Stationery,Notebook Pack,5.0,282.0,Returning,1410.0
+1240,2023-09-05,North,Clothing,Shoes,2.0,1073.0,New,2146.0
+1067,2023-07-11,East,Electronics,Smartphone,2.0,7741.0,New,15482.0
+1174,2023-04-12,North,Electronics,Laptop,6.0,3789.0,New,22734.0
+1766,2023-09-06,East,Electronics,Smartphone,2.0,5941.0,New,11882.0
+1245,2023-06-11,West,Electronics,Smartphone,3.0,9238.0,New,27714.0
+1056,2023-02-13,north,Stationery,Notebook Pack,5.0,725.0,Returning,3625.0
+1630,2023-08-07,South,Clothing,T-Shirt,4.0,1254.0,Returning,5016.0
+1583,2023-11-25,South,Clothing,Jeans,5.0,1845.0,Returning,9225.0
+2039,2023-09-07,West,Grocery,Cooking Oil 1L,6.0,180.0,New,1080.0
+1145,2023-06-12,East,Electronics,Headphones,2.0,6190.0,New,12380.0
+1090,2023-07-17,East,Stationery,Backpack,2.0,527.0,Returning,1054.0
+2129,2023-02-04,South,Clothing,T-Shirt,6.0,1733.0,New,10398.0
+1392,2023-04-01,North,Furniture,Study Table,3.0,7896.0,New,23688.0
+1874,2023-07-18,North,Electronics,Headphones,7.0,22197.0,New,155379.0
+1682,2023-05-30,South,Clothing,Jeans,3.0,1601.0,New,4803.0
+1310,2023-03-15,West,Electronics,Headphones,2.0,10997.0,New,21994.0
+1359,2023-07-31,North,Electronics,Laptop,7.0,1934.0,New,13538.0
+1093,2023-09-18,East,Clothing,Shoes,2.0,394.0,Returning,788.0
+1981,2023-05-03,East,Furniture,Bookshelf,5.0,3473.0,New,17365.0
+2038,2023-03-02,East,Furniture,Office Chair,4.0,3572.0,New,14288.0
+1376,2023-08-29,North,Grocery,Snacks Pack,5.0,321.0,Returning,1605.0
+1243,2023-10-10,South,Electronics,Smartwatch,4.0,20384.0,New,81536.0
+2091,2023-06-25,North,Grocery,Cooking Oil 1L,5.0,321.0,Returning,1605.0
+1087,2023-11-16,East,Furniture,Bookshelf,6.0,4398.0,Returning,26388.0
+1214,2023-09-25,East,Stationery,Pen Set,6.0,287.0,Returning,1722.0
+1444,2023-11-23,South,Electronics,Headphones,4.0,12204.0,New,48816.0
+1173,2023-05-23,South,Grocery,Cooking Oil 1L,5.0,344.0,New,1720.0
+1425,2023-12-10,North,Electronics,Laptop,3.0,9862.0,New,29586.0
+2054,2023-04-29,west,Electronics,Headphones,6.0,6326.0,Returning,37956.0
+1118,2023-07-20,South,Clothing,T-Shirt,3.0,2389.0,New,7167.0
+1119,2023-04-18,North,Grocery,Cooking Oil 1L,4.0,83.0,Returning,332.0
+1939,2023-07-05,South,Grocery,Snacks Pack,2.0,56.0,Returning,112.0
+1893,2023-10-26,South,Stationery,Notebook Pack,5.0,133.0,Returning,665.0
+1000,2023-04-13,East,Furniture,Bookshelf,5.0,1966.0,New,9830.0
+1394,2023-08-23,East,Electronics,Laptop,5.0,11576.0,Returning,57880.0
+1401,2023-01-26,South,Grocery,Tea 250g,6.0,335.0,Returning,2010.0
+1404,2023-07-26,North,Furniture,Study Table,4.0,4635.0,New,18540.0
+1861,2023-03-09,North,Clothing,T-Shirt,5.0,890.0,Returning,4450.0
+1872,2023-09-05,South,Electronics,Laptop,7.0,18707.0,New,130949.0
+1162,2023-01-10,South,Electronics,Smartphone,5.0,23081.0,Returning,115405.0
+1114,2023-11-05,West,Electronics,Headphones,5.0,24827.0,New,124135.0
+1670,2023-03-10,North,Stationery,Notebook Pack,1.0,78.0,Returning,78.0
+1150,2023-03-17,South,Stationery,Backpack,6.0,51.0,New,306.0
+1961,2023-02-25,East,Clothing,Jacket,7.0,885.0,Returning,6195.0
+1828,2023-12-19,North,Clothing,Jacket,7.0,417.0,New,2919.0
+1561,2023-01-06,West,Clothing,Jacket,6.0,2473.0,New,14838.0
+1368,2023-10-29,South,Stationery,Notebook Pack,2.0,262.0,Returning,524.0
+1543,2023-04-23,North,Electronics,Smartwatch,2.0,17780.0,Returning,35560.0
+1477,2023-09-30,North,Grocery,Cooking Oil 1L,7.0,240.0,New,1680.0
+2143,2023-10-08,North,Furniture,Bookshelf,5.0,2580.0,Returning,12900.0
+1532,2023-06-22,East,Furniture,Bookshelf,4.0,3681.0,New,14724.0
+1625,2023-06-08,North,Electronics,Smartwatch,7.0,4963.0,New,34741.0
+2120,2023-02-14,South,Electronics,Smartwatch,3.0,8897.0,Returning,26691.0
+1512,2023-07-06,West,Clothing,Shoes,5.0,1500.0,Returning,7500.0
+1825,2023-06-17,East,Clothing,Shoes,2.0,1851.0,New,3702.0
+1072,2023-01-01,North,Clothing,Shoes,2.0,1401.0,New,2802.0
+1807,2023-10-06,West,Furniture,Office Chair,7.0,2441.0,New,17087.0
+1258,2023-06-21,South,Electronics,Headphones,1.0,14435.0,New,14435.0
+1624,2023-07-19,East,Stationery,Backpack,6.0,284.0,New,1704.0
+1234,2023-03-23,North,Electronics,Laptop,1.0,19122.0,New,19122.0
+1135,2023-10-28,West,Clothing,T-Shirt,3.0,2189.0,Returning,6567.0
+1616,2023-06-21,South,Electronics,Headphones,7.0,14309.0,Returning,100163.0
+1516,2023-10-30,South,Electronics,Smartphone,4.0,3493.0,New,13972.0
+1892,2023-11-27,South,Electronics,Smartwatch,1.0,10428.0,Returning,10428.0
+1802,2023-08-01,North,Furniture,Bookshelf,1.0,1576.0,New,1576.0
+1809,2023-10-08,South,Furniture,Study Table,5.0,3043.0,New,15215.0
+1592,2023-07-27,South,Clothing,Shoes,1.0,1853.0,New,1853.0
+2070,2023-06-29,West,Furniture,Office Chair,3.0,3358.0,Returning,10074.0
+1501,2023-06-28,North,Grocery,Rice 5kg,6.0,92.0,New,552.0
+1538,2023-04-09,East,Furniture,Bookshelf,5.0,7469.0,New,37345.0
+1926,2023-04-03,North,Electronics,Laptop,6.0,20796.0,Returning,124776.0
+1728,2023-07-09,South,Electronics,Smartwatch,6.0,12714.0,Returning,76284.0
+1581,2023-05-25,South,Furniture,Bookshelf,4.0,6704.0,Returning,26816.0
+1343,2023-02-01,South,Clothing,Shoes,3.0,377.0,Returning,1131.0
+1956,2023-08-27,West,Electronics,Smartphone,5.0,2773.0,New,13865.0
+1978,2023-02-14,South,Furniture,Study Table,4.0,8208.0,New,32832.0
+1293,2023-02-06,East,Electronics,Smartwatch,1.0,12190.0,New,12190.0
+1364,2023-09-09,North,Electronics,Laptop,2.0,17246.0,New,34492.0
+1879,2023-07-07,West,Electronics,Laptop,6.0,1344.0,New,8064.0
+1659,2023-06-10,North,Electronics,Laptop,7.0,11494.0,New,80458.0
+1014,2023-03-03,South,Grocery,Cooking Oil 1L,4.0,325.0,New,1300.0
+1686,2023-05-10,West,Electronics,Smartwatch,3.0,1155.0,New,3465.0
+1086,2023-11-30,West,Stationery,Backpack,4.0,369.0,Returning,1476.0
+1370,2023-06-14,East,Clothing,Shoes,7.0,2242.0,New,15694.0
+1165,2023-10-09,North,Electronics,Laptop,5.0,5978.0,New,29890.0
+1131,2023-02-16,West,Electronics,Headphones,2.0,10906.0,Returning,21812.0
+1335,2023-11-09,South,Grocery,Tea 250g,5.0,124.0,Returning,620.0
+1059,2023-11-12,South,Grocery,Tea 250g,4.0,184.0,Returning,736.0
+1709,2023-01-29,South,Clothing,Jeans,4.0,358.0,Returning,1432.0
+1676,2023-01-30,West,Clothing,T-Shirt,3.0,580.0,New,1740.0
+1354,2023-09-23,East,Clothing,Shoes,1.0,1382.0,New,1382.0
+1993,2023-05-29,North,Grocery,Snacks Pack,3.0,332.0,New,996.0
+1424,2023-12-08,East,Electronics,Headphones,,5717.0,New,
+1292,2023-01-19,West,Electronics,Smartphone,7.0,11686.0,Returning,81802.0
+1041,2023-04-10,North,Electronics,Laptop,3.0,3289.0,Returning,9867.0
+1329,2023-11-20,North,Furniture,Office Chair,5.0,5286.0,New,26430.0
+1614,2023-08-26,south,Clothing,Shoes,1.0,2112.0,New,2112.0
+1429,2023-08-25,North,Clothing,Jeans,6.0,1396.0,Returning,8376.0
+1079,2023-11-11,West,Stationery,Notebook Pack,5.0,495.0,New,2475.0
+1693,2023-01-25,North,Clothing,Shoes,1.0,1118.0,New,1118.0
+1028,2023-07-11,West,Grocery,Rice 5kg,6.0,45.0,New,270.0
+1707,2023-11-16,east,Electronics,Smartphone,3.0,5821.0,Returning,17463.0
+1927,2023-06-07,South,Electronics,Smartphone,5.0,,New,
+1921,2023-02-20,West,Clothing,Jacket,3.0,767.0,Returning,2301.0
+1254,2023-11-23,South,Grocery,Rice 5kg,7.0,159.0,New,1113.0
+1160,2023-10-20,South,Furniture,Office Chair,6.0,4655.0,New,27930.0
+1458,2023-10-11,West,Electronics,Laptop,6.0,23727.0,New,142362.0
+1383,2023-11-10,South,Furniture,Office Chair,2.0,9735.0,New,19470.0
+1313,2023-02-02,South,Grocery,Snacks Pack,6.0,247.0,New,1482.0
+1084,2023-06-27,North,Clothing,T-Shirt,4.0,2360.0,New,9440.0
+1574,2023-03-19,East,Electronics,Smartphone,5.0,7867.0,New,39335.0
+1762,2023-10-02,West,Stationery,Backpack,2.0,140.0,Returning,280.0
+1136,2023-08-04,North,Furniture,Office Chair,1.0,11408.0,New,11408.0
+1111,2023-01-09,South,Clothing,T-Shirt,1.0,1601.0,New,1601.0
+1194,2023-08-04,West,Clothing,Jeans,7.0,372.0,New,2604.0
+1852,2023-04-27,East,Grocery,Snacks Pack,6.0,375.0,Returning,2250.0
+1178,2023-01-27,East,Stationery,Backpack,2.0,139.0,New,278.0
+1555,2023-07-11,West,Stationery,Notebook Pack,7.0,501.0,Returning,3507.0
+1723,2023-07-10,East,Clothing,Jacket,5.0,2041.0,Returning,10205.0
+2023,2023-01-29,North,Grocery,Tea 250g,2.0,225.0,New,450.0
+1496,2023-03-11,South,Grocery,Tea 250g,5.0,69.0,New,345.0
+1885,2023-07-29,East,Stationery,Backpack,5.0,72.0,Returning,360.0
+1805,2023-09-08,North,Stationery,Pen Set,3.0,645.0,New,1935.0
+1129,2023-11-15,west,Stationery,Backpack,2.0,624.0,New,1248.0
+1715,2023-05-22,north,Electronics,Headphones,6.0,15506.0,New,93036.0
+1337,2023-12-23,North,Grocery,Snacks Pack,1.0,267.0,New,267.0
+2083,2023-09-05,East,Grocery,Tea 250g,2.0,302.0,New,604.0
+1608,2023-07-05,North,Furniture,Office Chair,7.0,4557.0,Returning,31899.0
+1124,2023-02-08,South,Clothing,T-Shirt,6.0,315.0,Returning,1890.0
+1195,2023-07-25,West,Stationery,Pen Set,1.0,385.0,Returning,385.0
+1226,2023-09-17,North,Clothing,Jacket,6.0,2471.0,Returning,14826.0
+1689,2023-05-29,West,Furniture,Office Chair,3.0,3063.0,Returning,9189.0
+1268,2023-06-24,North,Furniture,Study Table,6.0,3274.0,New,19644.0
+1152,2023-11-01,East,Stationery,Notebook Pack,6.0,313.0,Returning,1878.0
+1584,2023-12-28,West,Clothing,Jeans,2.0,1153.0,New,2306.0
+2168,2023-10-17,West,Electronics,Smartwatch,7.0,15851.0,Returning,110957.0
+1103,2023-10-13,North,Furniture,Bookshelf,6.0,11853.0,Returning,71118.0
+1593,2023-01-13,West,Clothing,Jacket,3.0,1573.0,Returning,4719.0
+2112,2023-07-10,North,Clothing,Jacket,2.0,830.0,Returning,1660.0
+1786,2023-07-07,East,Grocery,Cooking Oil 1L,2.0,72.0,Returning,144.0
+1998,2023-09-12,West,Electronics,Laptop,6.0,24084.0,New,144504.0
+1884,2023-12-11,East,Electronics,Smartwatch,1.0,8738.0,New,8738.0
+1776,2023-04-16,North,Electronics,Smartphone,7.0,17491.0,Returning,122437.0
+1929,2023-05-29,East,Electronics,Smartphone,2.0,19713.0,Returning,39426.0
+1849,2023-03-30,North,Clothing,Jacket,3.0,2421.0,New,7263.0
+1894,2023-01-05,East,Furniture,Bookshelf,4.0,6282.0,Returning,25128.0
+1227,2023-05-18,East,Clothing,T-Shirt,6.0,2328.0,Returning,13968.0
+2134,2023-09-25,South,Electronics,Laptop,6.0,23044.0,Returning,138264.0
+1301,2023-08-29,East,Clothing,Jeans,6.0,1411.0,New,8466.0
+1854,2023-06-15,East,Electronics,Headphones,5.0,13551.0,New,67755.0
+1275,2023-06-16,South,Clothing,Shoes,4.0,1891.0,New,7564.0
+1126,2023-08-24,North,Grocery,Tea 250g,1.0,398.0,Returning,398.0
+1405,2023-01-11,north,Furniture,Bookshelf,2.0,8128.0,Returning,16256.0
+1775,2023-05-18,South,Furniture,Study Table,2.0,5980.0,Returning,11960.0
+1821,2023-03-29,South,Clothing,Jeans,1.0,884.0,New,884.0
+1711,2023-12-30,East,Clothing,T-Shirt,4.0,594.0,Returning,2376.0
+1765,2023-05-01,North,Clothing,Jeans,6.0,515.0,New,3090.0
+1683,2023-03-30,North,Grocery,Rice 5kg,7.0,118.0,Returning,826.0
+1749,2023-06-09,East,Furniture,Study Table,1.0,10563.0,New,10563.0
+2137,2023-02-13,North,Grocery,Cooking Oil 1L,2.0,288.0,New,576.0
+1036,2023-11-07,West,Electronics,Smartwatch,4.0,14217.0,New,56868.0
+1139,2023-12-26,North,Electronics,Smartwatch,,1807.0,Returning,
+1303,2023-11-03,South,Clothing,T-Shirt,4.0,770.0,Returning,3080.0
+1267,2023-03-31,East,Stationery,Pen Set,1.0,480.0,New,480.0
+1834,2023-04-24,North,Grocery,Snacks Pack,2.0,216.0,New,432.0
+1533,2023-12-03,South,Grocery,Snacks Pack,3.0,114.0,New,342.0
+1545,2023-08-02,East,Grocery,Snacks Pack,3.0,57.0,Returning,171.0
+1212,2023-10-15,North,Grocery,Cooking Oil 1L,7.0,354.0,New,2478.0
+1896,2023-10-06,North,Electronics,Smartphone,5.0,21100.0,New,105500.0
+1468,2023-05-24,South,Electronics,Smartphone,6.0,4667.0,New,28002.0
+1198,2023-03-01,North,Clothing,Jacket,3.0,941.0,Returning,2823.0
+2040,2023-03-04,East,Electronics,Smartphone,5.0,9511.0,Returning,47555.0
+1867,2023-10-12,West,Clothing,Jacket,1.0,1164.0,New,1164.0
+1672,2023-11-07,North,Electronics,Smartphone,1.0,7519.0,New,7519.0
+1916,2023-04-02,West,Grocery,Rice 5kg,7.0,357.0,New,2499.0
+1527,2023-03-01,West,Electronics,Smartwatch,5.0,18358.0,Returning,91790.0
+1675,2023-03-26,North,Grocery,Tea 250g,6.0,153.0,New,918.0
+2072,2023-11-21,North,Grocery,Rice 5kg,3.0,63.0,Returning,189.0
+1814,2023-07-26,East,Electronics,Smartphone,4.0,23058.0,New,92232.0
+1241,2023-07-16,North,Stationery,Pen Set,4.0,646.0,New,2584.0
+1342,2023-01-03,East,Electronics,Headphones,7.0,3030.0,New,21210.0
+1549,2023-09-05,East,Clothing,Jacket,6.0,1391.0,New,8346.0
+1386,2023-04-04,South,Furniture,Study Table,7.0,6386.0,Returning,44702.0
+2116,2023-12-28,North,Grocery,Rice 5kg,3.0,,New,
+1206,2023-11-10,South,Electronics,Smartwatch,3.0,17959.0,New,53877.0
+1295,2023-07-07,North,Grocery,Tea 250g,5.0,397.0,New,1985.0
+1695,2023-04-14,East,Furniture,Study Table,2.0,9544.0,Returning,19088.0
+2051,2023-07-18,North,Clothing,Jeans,3.0,1855.0,Returning,5565.0
+1073,2023-08-02,North,Electronics,Smartphone,5.0,5232.0,Returning,26160.0
+1605,2023-02-28,North,Clothing,Jacket,1.0,546.0,Returning,546.0
+1104,2023-11-15,West,Electronics,Smartwatch,7.0,16802.0,New,117614.0
+1975,2023-01-18,East,Clothing,Shoes,4.0,1033.0,Returning,4132.0
+2005,2023-06-15,west,Clothing,Jeans,3.0,1717.0,Returning,5151.0
+2183,2023-10-08,West,Furniture,Office Chair,7.0,1571.0,New,10997.0
+1016,2023-05-17,North,Clothing,T-Shirt,4.0,2298.0,New,9192.0
+1439,2023-07-27,North,Clothing,Jacket,6.0,465.0,Returning,2790.0
+1091,2023-06-06,East,Electronics,Headphones,3.0,18134.0,New,54402.0
+1088,2023-03-03,East,Clothing,T-Shirt,2.0,2163.0,Returning,4326.0
+2050,2023-03-28,South,Clothing,Jacket,1.0,2083.0,New,2083.0
+1908,2023-12-19,East,Grocery,Snacks Pack,2.0,206.0,New,412.0
+1450,2023-12-03,West,Grocery,Rice 5kg,6.0,189.0,Returning,1134.0
+1717,2023-07-18,South,Clothing,Jeans,2.0,2463.0,New,4926.0
+1102,2023-03-04,North,Stationery,Notebook Pack,5.0,719.0,New,3595.0
+1238,2023-05-18,East,Stationery,Backpack,7.0,263.0,New,1841.0
+2022,2023-05-24,North,Stationery,Notebook Pack,6.0,587.0,New,3522.0
+1942,2023-11-17,West,Electronics,Smartphone,6.0,8312.0,New,49872.0
+1246,2023-05-13,North,Stationery,Notebook Pack,6.0,637.0,New,3822.0
+1938,2023-01-16,North,Clothing,Jeans,3.0,1093.0,Returning,3279.0
+2010,2023-03-08,South,Electronics,Smartwatch,3.0,12219.0,New,36657.0
+1157,2023-11-28,East,Electronics,Headphones,5.0,2871.0,Returning,14355.0
+1479,2023-02-23,West,Furniture,Bookshelf,,9820.0,Returning,
+1838,2023-11-25,East,Furniture,Office Chair,7.0,6506.0,Returning,45542.0
+1645,2023-02-20,East,Electronics,Smartphone,2.0,9572.0,Returning,19144.0
+1005,2023-12-06,North,Electronics,Smartwatch,5.0,17959.0,Returning,89795.0
+2090,2023-12-07,North,Electronics,Smartwatch,2.0,20110.0,Returning,40220.0
+1871,2023-05-02,South,Stationery,Backpack,2.0,577.0,Returning,1154.0
+1965,2023-02-06,East,Furniture,Study Table,6.0,7432.0,New,44592.0
+1018,2023-08-08,South,Electronics,Headphones,1.0,14749.0,Returning,14749.0
+1997,2023-02-12,South,Clothing,Jeans,5.0,2324.0,New,11620.0
+1121,2023-09-25,North,Electronics,Smartphone,2.0,5673.0,Returning,11346.0
+1946,2023-09-15,South,Grocery,Cooking Oil 1L,6.0,132.0,New,792.0
+1661,2023-05-08,East,Clothing,Shoes,4.0,2415.0,New,9660.0
+1996,2023-01-15,East,Clothing,Shoes,5.0,618.0,Returning,3090.0
+1274,2023-06-21,North,Stationery,Backpack,3.0,661.0,New,1983.0
+1433,2023-10-29,North,Grocery,Tea 250g,5.0,151.0,New,755.0
+1811,2023-04-21,North,Electronics,Headphones,1.0,21412.0,Returning,21412.0
+2142,2023-09-06,West,Clothing,Jacket,6.0,451.0,New,2706.0
+1311,2023-01-17,South,Stationery,Notebook Pack,4.0,653.0,Returning,2612.0
+2126,2023-02-13,South,Electronics,Smartwatch,3.0,17010.0,New,51030.0
+2138,2023-05-20,West,Grocery,Snacks Pack,3.0,220.0,New,660.0
+1780,2023-07-21,East,Clothing,Shoes,5.0,2296.0,New,11480.0
+1546,2023-05-12,North,Clothing,Jeans,3.0,2453.0,Returning,7359.0
+1181,2023-01-10,West,Electronics,Headphones,1.0,4025.0,Returning,4025.0
+1184,2023-03-18,North,Grocery,Cooking Oil 1L,3.0,164.0,New,492.0
+1406,2023-05-06,South,Electronics,Smartwatch,7.0,23210.0,New,162470.0
+1719,2023-11-24,North,Clothing,Jacket,5.0,2258.0,Returning,11290.0
+2046,2023-04-06,South,Furniture,Office Chair,5.0,8498.0,New,42490.0
+1606,2023-02-20,West,Clothing,Jacket,4.0,1784.0,New,7136.0
+1692,2023-01-27,East,Stationery,Backpack,2.0,366.0,New,732.0
+1520,2023-05-06,South,Grocery,Rice 5kg,5.0,250.0,New,1250.0
+1865,2023-09-24,North,Furniture,Bookshelf,3.0,4718.0,New,14154.0
+2003,2023-03-13,North,Stationery,Pen Set,7.0,490.0,Returning,3430.0
+1380,2023-02-18,South,Electronics,Smartphone,6.0,3182.0,New,19092.0
+1992,2023-11-28,East,Clothing,T-Shirt,7.0,1813.0,New,12691.0
+1410,2023-09-22,East,Electronics,Headphones,3.0,22251.0,Returning,66753.0
+1634,2023-12-19,East,Clothing,Jeans,5.0,558.0,Returning,2790.0
+1369,2023-01-06,South,Grocery,Snacks Pack,1.0,352.0,New,352.0
+2084,2023-04-06,West,Grocery,Rice 5kg,5.0,376.0,New,1880.0
+2098,2023-06-05,West,Grocery,Tea 250g,2.0,93.0,Returning,186.0
+1427,2023-04-15,West,Clothing,Shoes,2.0,2019.0,Returning,4038.0
+1876,2023-11-22,North,Clothing,T-Shirt,6.0,2434.0,New,14604.0
+1078,2023-02-03,South,Grocery,Tea 250g,3.0,219.0,Returning,657.0
+1862,2023-07-03,south,Grocery,Rice 5kg,5.0,98.0,New,490.0
+1573,2023-03-09,East,Grocery,Snacks Pack,4.0,179.0,New,716.0
+2009,2023-01-29,North,Electronics,Laptop,3.0,18747.0,New,56241.0
+2189,2023-01-23,East,Electronics,Laptop,,24713.0,Returning,
+1637,2023-06-15,East,Furniture,Study Table,7.0,9740.0,New,68180.0
+1607,2023-07-14,West,Grocery,Cooking Oil 1L,2.0,350.0,Returning,700.0
+2194,2023-10-27,North,Clothing,Jacket,7.0,1525.0,New,10675.0
+1068,2023-12-01,South,Clothing,Jacket,1.0,1096.0,New,1096.0
+1859,2023-06-13,North,Clothing,Shoes,1.0,1413.0,Returning,1413.0
+2181,2023-07-03,North,Grocery,Tea 250g,4.0,383.0,Returning,1532.0
+2056,2023-06-14,South,Electronics,Laptop,7.0,11329.0,New,79303.0
+1958,2023-09-10,South,Grocery,Cooking Oil 1L,5.0,108.0,New,540.0
+1559,2023-04-07,South,Clothing,Jeans,6.0,2426.0,New,14556.0
+1846,2023-01-02,South,Furniture,Office Chair,4.0,7063.0,Returning,28252.0
+1690,2023-06-17,West,Clothing,Jacket,4.0,2416.0,New,9664.0
+2171,2023-12-02,West,Furniture,Bookshelf,5.0,11093.0,New,55465.0
+2124,2023-02-04,South,Clothing,Jacket,5.0,793.0,Returning,3965.0
+1436,2023-08-28,East,Furniture,Bookshelf,4.0,2390.0,New,9560.0
+1490,2023-11-16,East,Furniture,Study Table,1.0,2964.0,New,2964.0
+1817,2023-05-27,South,Clothing,Jeans,1.0,313.0,Returning,313.0
+2105,2023-08-26,South,Electronics,Smartwatch,4.0,3358.0,New,13432.0
+1069,2023-12-06,East,Clothing,Jeans,2.0,2473.0,New,4946.0
+1808,2023-03-16,West,Electronics,Smartphone,6.0,10328.0,Returning,61968.0
+1011,2023-08-15,West,Electronics,Smartphone,5.0,24569.0,Returning,122845.0
+1144,2023-07-14,West,Stationery,Notebook Pack,5.0,576.0,Returning,2880.0
+1917,2023-09-04,South,Electronics,Headphones,4.0,20614.0,Returning,82456.0
+1639,2023-05-03,North,Grocery,Cooking Oil 1L,6.0,137.0,New,822.0
+1176,2023-12-30,West,Stationery,Notebook Pack,3.0,448.0,New,1344.0
+1994,2023-11-20,West,Stationery,Pen Set,4.0,599.0,Returning,2396.0
+1440,2023-06-12,north,Electronics,Laptop,7.0,20764.0,New,145348.0
+1521,2023-11-25,North,Grocery,Snacks Pack,4.0,73.0,Returning,292.0
+2004,2023-05-26,East,Electronics,Smartphone,1.0,23225.0,New,23225.0
+1143,2023-04-09,South,Clothing,Jacket,5.0,1398.0,New,6990.0
+1753,2023-08-16,West,Grocery,Rice 5kg,2.0,119.0,New,238.0
+1519,2023-12-21,East,Electronics,Laptop,1.0,7836.0,New,7836.0
+1822,2023-05-18,West,Grocery,Cooking Oil 1L,7.0,109.0,Returning,763.0
+1428,2023-04-07,West,Stationery,Pen Set,4.0,521.0,New,2084.0
+1612,2023-03-03,West,Clothing,T-Shirt,3.0,2169.0,Returning,6507.0
+2032,2023-04-04,West,Clothing,Jeans,6.0,1831.0,New,10986.0
+1156,2023-07-30,South,Electronics,Smartwatch,3.0,16802.0,New,50406.0
+1539,2023-12-01,East,Electronics,Laptop,4.0,11286.0,New,45144.0
+1461,2023-02-03,West,Electronics,Smartphone,4.0,3381.0,New,13524.0
+1576,2023-11-18,East,Furniture,Study Table,2.0,6753.0,New,13506.0
+1255,2023-10-13,South,Electronics,Headphones,1.0,14765.0,Returning,14765.0
+1979,2023-02-07,West,Clothing,Shoes,7.0,1026.0,New,7182.0
+2006,2023-11-29,North,Clothing,Shoes,1.0,592.0,Returning,592.0
+1560,2023-06-18,West,Stationery,Backpack,7.0,319.0,Returning,2233.0
+1208,2023-11-10,South,Clothing,Shoes,7.0,1714.0,New,11998.0
+1910,2023-06-15,South,Clothing,Jacket,5.0,1724.0,New,8620.0
+1001,2023-03-29,East,Clothing,Shoes,6.0,1815.0,Returning,10890.0
+1269,2023-04-23,South,Electronics,Smartphone,1.0,6689.0,New,6689.0
+1265,2023-10-04,East,Clothing,Jacket,7.0,2027.0,New,14189.0
+1914,2023-05-26,North,Stationery,Notebook Pack,3.0,755.0,Returning,2265.0
+1230,2023-01-31,West,Stationery,Notebook Pack,6.0,269.0,New,1614.0
+2192,2023-06-22,South,Furniture,Office Chair,1.0,11919.0,New,11919.0
+2188,2023-03-06,North,Electronics,Smartwatch,5.0,22858.0,Returning,114290.0
+1864,2023-06-25,East,Grocery,Rice 5kg,4.0,252.0,Returning,1008.0
+2066,2023-07-20,East,Electronics,Smartphone,1.0,23003.0,New,23003.0
+1873,2023-08-06,West,Clothing,Jacket,2.0,1192.0,Returning,2384.0
+2077,2023-01-30,South,Clothing,Shoes,3.0,659.0,New,1977.0
+1398,2023-02-28,North,Grocery,Rice 5kg,6.0,103.0,New,618.0
+2198,2023-04-26,South,Electronics,Headphones,4.0,2063.0,Returning,8252.0
+1045,2023-04-25,East,Electronics,Smartwatch,2.0,12138.0,New,24276.0
+1161,2023-05-25,South,Clothing,T-Shirt,3.0,2346.0,New,7038.0
+1991,2023-11-23,North,Grocery,Rice 5kg,5.0,377.0,New,1885.0
+1727,2023-09-21,South,Stationery,Pen Set,7.0,330.0,New,2310.0
+1629,2023-05-25,West,Grocery,Tea 250g,2.0,91.0,Returning,182.0
+1288,2023-06-28,South,Furniture,Bookshelf,3.0,4319.0,New,12957.0
+2059,2023-05-30,South,Clothing,Shoes,7.0,1490.0,Returning,10430.0
+2178,2023-04-15,North,Grocery,Cooking Oil 1L,1.0,382.0,New,382.0
+1575,2023-10-06,East,Clothing,Shoes,4.0,2022.0,Returning,8088.0
+1850,2023-02-01,West,Grocery,Snacks Pack,5.0,119.0,New,595.0
+1911,2023-01-13,East,Electronics,Smartphone,5.0,4767.0,New,23835.0
+1683,2023-03-30,North,Grocery,Rice 5kg,7.0,118.0,Returning,826.0
+1932,2023-01-31,West,Electronics,Smartwatch,2.0,18850.0,New,37700.0
+1247,2023-10-04,North,Electronics,Smartphone,5.0,18899.0,Returning,94495.0
+1476,2023-04-19,East,Furniture,Bookshelf,3.0,2364.0,Returning,7092.0
+1085,2023-11-25,South,Furniture,Bookshelf,6.0,3104.0,Returning,18624.0
+1469,2023-11-29,North,Grocery,Cooking Oil 1L,5.0,61.0,Returning,305.0
+1225,2023-11-15,West,Electronics,Laptop,7.0,14058.0,New,98406.0
+1774,2023-03-16,South,Furniture,Bookshelf,1.0,11639.0,New,11639.0
+1331,2023-05-29,West,Clothing,Jeans,5.0,2338.0,New,11690.0
+1233,2023-06-09,North,Grocery,Tea 250g,7.0,181.0,Returning,1267.0
+1588,2023-04-20,North,Furniture,Study Table,2.0,9871.0,Returning,19742.0
+1475,2023-12-03,North,Grocery,Cooking Oil 1L,6.0,208.0,Returning,1248.0
+1599,2023-01-12,South,Clothing,Shoes,3.0,2168.0,Returning,6504.0
+1421,2023-06-29,South,Electronics,Headphones,6.0,20256.0,New,121536.0
+1182,2023-04-10,West,Clothing,Jeans,3.0,1762.0,Returning,5286.0
+1988,2023-01-09,East,Clothing,Shoes,4.0,788.0,New,3152.0
+2000,2023-09-16,West,Grocery,Tea 250g,3.0,370.0,New,1110.0
+1049,2023-12-05,South,Clothing,Shoes,3.0,1792.0,New,5376.0
+2131,2023-05-22,West,Electronics,Smartphone,6.0,2857.0,New,17142.0
+2029,2023-04-13,East,Clothing,T-Shirt,6.0,2140.0,Returning,12840.0
+1529,2023-07-14,North,Clothing,Jeans,4.0,2049.0,New,8196.0
+1486,2023-04-27,South,Clothing,T-Shirt,1.0,680.0,Returning,680.0
+1497,2023-01-12,south,Stationery,Backpack,6.0,210.0,Returning,1260.0
+1106,2023-08-17,East,Electronics,Headphones,2.0,8770.0,Returning,17540.0
+1443,2023-08-27,East,Grocery,Rice 5kg,4.0,161.0,New,644.0
+1646,2023-03-17,North,Clothing,T-Shirt,6.0,988.0,Returning,5928.0
+2036,2023-01-09,East,Clothing,Shoes,7.0,2086.0,New,14602.0
+1726,2023-05-07,South,Furniture,Bookshelf,1.0,3323.0,New,3323.0
+1190,2023-08-25,North,Electronics,Laptop,5.0,23283.0,New,116415.0
+1282,2023-04-19,South,Electronics,Headphones,7.0,9291.0,New,65037.0
+1029,2023-10-29,West,Stationery,Backpack,4.0,372.0,New,1488.0
+1169,2023-08-06,South,Clothing,Jeans,1.0,602.0,Returning,602.0
+2001,2023-03-06,South,Grocery,Cooking Oil 1L,2.0,256.0,New,512.0
+1100,2023-12-30,north,Stationery,Pen Set,7.0,334.0,Returning,2338.0
+1197,2023-04-06,South,Grocery,Snacks Pack,2.0,199.0,Returning,398.0
+1495,2023-10-19,North,Furniture,Office Chair,5.0,4146.0,New,20730.0
+1647,2023-08-24,North,Electronics,Headphones,3.0,23983.0,Returning,71949.0
+1987,2023-07-11,East,Furniture,Office Chair,6.0,2040.0,New,12240.0
+1044,2023-01-12,North,Electronics,Smartphone,2.0,2882.0,New,5764.0
+1710,2023-05-16,East,Furniture,Office Chair,6.0,10596.0,New,63576.0
+1373,2023-12-29,East,Grocery,Snacks Pack,1.0,214.0,New,214.0
+1678,2023-08-17,West,Grocery,Snacks Pack,7.0,,New,
+1566,2023-07-22,West,Electronics,Smartphone,2.0,18096.0,New,36192.0
+1847,2023-02-26,North,Clothing,T-Shirt,6.0,716.0,New,4296.0
+1460,2023-11-07,East,Electronics,Smartwatch,7.0,4769.0,New,33383.0
+1039,2023-10-05,North,Grocery,Snacks Pack,3.0,108.0,Returning,324.0
+1434,2023-04-01,East,Stationery,Backpack,7.0,761.0,Returning,5327.0
+1973,2023-05-14,East,Grocery,Tea 250g,6.0,376.0,New,2256.0
+2007,2023-05-20,South,Grocery,Tea 250g,4.0,292.0,Returning,1168.0
+1456,2023-11-29,South,Grocery,Cooking Oil 1L,3.0,111.0,New,333.0
+1260,2023-11-03,East,Clothing,T-Shirt,4.0,1778.0,Returning,7112.0
+1035,2023-04-11,North,Clothing,T-Shirt,4.0,1426.0,New,5704.0
+1827,2023-10-18,East,Electronics,Smartwatch,2.0,21144.0,New,42288.0
+1309,2023-03-06,South,Furniture,Bookshelf,1.0,8208.0,New,8208.0
+1276,2023-07-21,North,Grocery,Tea 250g,7.0,344.0,Returning,2408.0
+1636,2023-08-14,East,Electronics,Headphones,7.0,16816.0,Returning,117712.0
+1654,2023-07-01,East,Clothing,Jeans,6.0,1901.0,New,11406.0
+1622,2023-05-09,North,Electronics,Laptop,6.0,13190.0,Returning,79140.0
+1844,2023-02-28,North,Furniture,Office Chair,6.0,1932.0,Returning,11592.0
+1393,2023-10-31,North,Clothing,Jeans,6.0,413.0,Returning,2478.0
+1107,2023-06-14,North,Electronics,Smartphone,2.0,6950.0,New,13900.0
+1349,2023-06-16,East,Stationery,Notebook Pack,7.0,452.0,Returning,3164.0
+1524,2023-04-09,South,Grocery,Rice 5kg,4.0,150.0,Returning,600.0
+1784,2023-01-14,West,Clothing,T-Shirt,2.0,1351.0,New,2702.0
+1047,2023-09-25,East,Clothing,T-Shirt,3.0,2121.0,New,6363.0
+1203,2023-06-30,North,Furniture,Office Chair,1.0,6298.0,New,6298.0
+1021,2023-12-18,East,Electronics,Headphones,7.0,3185.0,New,22295.0
+1402,2023-04-26,East,Electronics,Smartphone,7.0,18159.0,Returning,127113.0
+2107,2023-01-12,South,Clothing,Jeans,7.0,913.0,New,6391.0
+2154,2023-06-13,North,Clothing,Jeans,5.0,484.0,New,2420.0
+1989,2023-09-02,North,Stationery,Backpack,2.0,356.0,New,712.0
+1741,2023-01-16,South,Electronics,Laptop,6.0,16340.0,Returning,98040.0
+2147,2023-11-16,East,Furniture,Bookshelf,6.0,7719.0,New,46314.0
+1033,2023-05-22,North,Furniture,Bookshelf,2.0,11674.0,New,23348.0
+1787,2023-07-01,South,Electronics,Headphones,7.0,16912.0,New,118384.0
+1923,2023-09-23,North,Grocery,Rice 5kg,1.0,212.0,Returning,212.0
+2043,2023-08-11,North,Grocery,Snacks Pack,1.0,176.0,Returning,176.0
+2167,2023-02-25,West,Electronics,Headphones,2.0,14521.0,New,29042.0
+1579,2023-09-28,North,Electronics,Smartphone,5.0,1972.0,Returning,9860.0
+1481,2023-04-19,West,Electronics,Laptop,6.0,8754.0,New,52524.0
+1931,2023-03-29,West,Grocery,Cooking Oil 1L,4.0,167.0,New,668.0
+1356,2023-10-11,East,Grocery,Rice 5kg,1.0,177.0,Returning,177.0
+1759,2023-07-25,North,Electronics,Headphones,5.0,3779.0,New,18895.0
+1092,2023-11-26,South,Clothing,Jeans,7.0,2200.0,Returning,15400.0
+1803,2023-11-29,North,Clothing,Jeans,3.0,1765.0,New,5295.0
+1745,2023-11-10,east,Electronics,Smartwatch,6.0,12255.0,Returning,73530.0
+1279,2023-09-02,West,Electronics,Headphones,5.0,7113.0,Returning,35565.0
+1764,2023-01-12,West,Electronics,Headphones,1.0,4212.0,Returning,4212.0
+1604,2023-09-08,East,Electronics,Laptop,6.0,8902.0,New,53412.0
+2199,2023-03-18,North,Stationery,Notebook Pack,4.0,382.0,Returning,1528.0
+1400,2023-09-25,West,Clothing,Shoes,3.0,389.0,Returning,1167.0
+1257,2023-03-03,South,Furniture,Study Table,3.0,2848.0,Returning,8544.0
+1944,2023-01-19,North,Grocery,Rice 5kg,6.0,313.0,Returning,1878.0
+2096,2023-01-20,South,Furniture,Study Table,5.0,2105.0,Returning,10525.0
+2161,2023-12-04,West,Grocery,Cooking Oil 1L,6.0,356.0,Returning,2136.0
+1494,2023-01-17,East,Clothing,Jeans,7.0,1601.0,Returning,11207.0
+1772,2023-08-01,South,Grocery,Snacks Pack,4.0,325.0,Returning,1300.0
+1550,2023-11-30,South,Furniture,Bookshelf,3.0,1740.0,New,5220.0
+1201,2023-04-26,North,Clothing,Shoes,7.0,2064.0,New,14448.0
+1312,2023-10-10,East,Grocery,Cooking Oil 1L,6.0,173.0,New,1038.0
+1290,2023-01-13,West,Stationery,Notebook Pack,2.0,,New,
+1763,2023-08-06,South,Electronics,Headphones,3.0,5646.0,Returning,16938.0
+2136,2023-07-01,North,Grocery,Snacks Pack,7.0,281.0,New,1967.0
+1949,2023-06-20,West,Grocery,Snacks Pack,2.0,214.0,New,428.0
+1183,2023-06-10,North,Electronics,Headphones,5.0,16814.0,New,84070.0
+2176,2023-02-08,South,Electronics,Smartwatch,3.0,3725.0,New,11175.0
+2068,2023-08-06,East,Grocery,Tea 250g,3.0,157.0,Returning,471.0
+2030,2023-05-05,North,Furniture,Study Table,2.0,6256.0,New,12512.0
+1250,2023-01-04,South,Furniture,Bookshelf,7.0,2448.0,Returning,17136.0
+1823,2023-11-26,North,Electronics,Laptop,2.0,904.0,New,1808.0
+2099,2023-10-31,East,Electronics,Smartphone,6.0,7973.0,Returning,47838.0
+1940,2023-10-19,South,Grocery,Rice 5kg,6.0,285.0,New,1710.0
+1391,2023-09-21,East,Electronics,Smartphone,6.0,3535.0,Returning,21210.0
+2092,2023-07-29,North,Electronics,Laptop,3.0,22952.0,New,68856.0
+2191,2023-06-06,North,Grocery,Rice 5kg,5.0,62.0,New,310.0
+1904,2023-08-16,West,Furniture,Bookshelf,6.0,6705.0,New,40230.0
+1730,2023-06-10,East,Clothing,Shoes,5.0,2124.0,Returning,10620.0
+1554,2023-11-17,East,Stationery,Backpack,4.0,114.0,Returning,456.0
+1366,2023-12-07,East,Electronics,Headphones,4.0,19252.0,New,77008.0
+1345,2023-01-13,East,Stationery,Pen Set,4.0,138.0,New,552.0
+1535,2023-02-28,East,Furniture,Office Chair,7.0,1878.0,New,13146.0
+1664,2023-02-28,east,Grocery,Cooking Oil 1L,,41.0,Returning,
+1919,2023-04-02,East,Clothing,Jacket,3.0,1850.0,Returning,5550.0
+1211,2023-04-29,South,Electronics,Smartphone,4.0,6778.0,Returning,27112.0
+1502,2023-10-22,South,Clothing,Jacket,7.0,1662.0,New,11634.0
+1537,2023-06-27,South,Clothing,T-Shirt,7.0,1712.0,Returning,11984.0
+1175,2023-04-27,South,Furniture,Office Chair,2.0,,Returning,
